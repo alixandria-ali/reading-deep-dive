@@ -1,0 +1,79 @@
+site_name: Reading Deep Dive Documentation
+site_description: Comprehensive reading student analysis and intervention planning
+site_author: Deep Dive Analysis Team
+site_url: https://alixandria-ali.github.io/reading-deep-dive/
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      toc_depth: 2
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/solid/home
+      link: index.html
+
+nav:
+  - Home:
+      - Overview: index.md
+  - Reports:
+      - Reading Analysis: reports/reading_analysis.md
+      - Individual Student Profiles: reports/student_profiles.md
+      - Campus Breakdown: reports/campus_breakdown.md
+  - Data & Evidence:
+      - Data Files: data/index.md
+      - Specification: data/deep_dive_spec.md
+
+extra_css:
+  - stylesheets/extra.css

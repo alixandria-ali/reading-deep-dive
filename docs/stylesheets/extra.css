@@ -1,0 +1,480 @@
+/* Custom styles for Science Deep Dive Documentation - Inspired by Pattern Analysis Design */
+
+:root {
+  --primary-navy: #1e3a5f;
+  --primary-blue: #3498db;
+  --danger-red: #e74c3c;
+  --warning-amber: #f39c12;
+  --success-green: #27ae60;
+  --light-bg: #f8f9fa;
+  --card-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  --hover-shadow: 0 8px 25px rgba(0,0,0,0.12);
+  --border-radius: 16px;
+  --md-primary-fg-color: #1e3a5f;
+  --md-accent-fg-color: #3498db;
+}
+
+/* Body and Main Layout */
+body {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.6;
+}
+
+.md-container {
+  max-width: none;
+}
+
+.md-content {
+  padding: 2rem;
+  text-align: left;
+}
+
+.md-content__inner {
+  max-width: none;
+}
+
+/* Typography */
+.md-typeset h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--primary-navy);
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--primary-navy);
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--primary-blue);
+}
+
+.md-typeset h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--primary-navy);
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Card Styles */
+.md-typeset .admonition,
+.md-typeset details {
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  border: none;
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.md-typeset .admonition:hover,
+.md-typeset details:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--hover-shadow);
+}
+
+/* Color-coded left borders */
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-left: 4px solid var(--danger-red);
+}
+
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-left: 4px solid var(--warning-amber);
+}
+
+.md-typeset .admonition.success,
+.md-typeset details.success {
+  border-left: 4px solid var(--success-green);
+}
+
+.md-typeset .admonition.info,
+.md-typeset details.info {
+  border-left: 4px solid var(--primary-blue);
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-left: 4px solid var(--success-green);
+}
+
+.md-typeset .admonition.abstract {
+  border-left: 4px solid var(--primary-blue);
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+}
+
+/* Admonition titles */
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: var(--primary-navy);
+  background: transparent;
+}
+
+/* Table Styling */
+.md-typeset table {
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  margin: 1.5rem 0;
+  overflow: hidden;
+}
+
+.md-typeset table thead {
+  background: linear-gradient(135deg, var(--primary-navy) 0%, #2c5282 100%);
+  color: white;
+}
+
+.md-typeset table thead th {
+  padding: 1rem;
+  font-weight: 700;
+  text-align: left;
+  border: none;
+}
+
+.md-typeset table tbody td {
+  padding: 1rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.md-typeset table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.md-typeset table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+/* Buttons */
+.md-button {
+  background: var(--primary-blue);
+  color: white !important;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+}
+
+.md-button:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4);
+  color: white !important;
+}
+
+.md-button--primary {
+  background: var(--primary-navy);
+  box-shadow: 0 2px 8px rgba(30, 58, 95, 0.3);
+}
+
+.md-button--primary:hover {
+  background: #152a47;
+  box-shadow: 0 4px 12px rgba(30, 58, 95, 0.4);
+}
+
+/* Navigation Tabs */
+.md-tabs {
+  background: var(--primary-navy);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Grid Cards */
+.md-typeset .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.md-typeset .grid.cards > * {
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.md-typeset .grid.cards > *:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--hover-shadow);
+}
+
+/* Navigation button container styling - keep centered for buttons */
+.grid.cards[style*="text-align: center"] {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  background: transparent;
+  box-shadow: none;
+  margin-bottom: 2rem;
+}
+
+.grid.cards[style*="text-align: center"] > * {
+  box-shadow: none;
+  padding: 0;
+  background: transparent;
+}
+
+/* Ensure all content is left-aligned by default */
+.md-typeset {
+  text-align: left;
+}
+
+.md-typeset p,
+.md-typeset ul,
+.md-typeset ol,
+.md-typeset table {
+  text-align: left;
+}
+
+/* Code blocks */
+.md-typeset code {
+  background-color: #f1f5f9;
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  font-family: "Monaco", "Courier New", monospace;
+  color: var(--primary-navy);
+  border: 1px solid #e2e8f0;
+}
+
+.md-typeset pre {
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  border-left: 4px solid var(--primary-blue);
+}
+
+/* Hide left navigation sidebar */
+.md-sidebar--primary {
+  display: none;
+}
+
+/* Show right sidebar with ToC - VERY narrow width */
+.md-sidebar--secondary {
+  display: block !important;
+  width: 220px !important;
+  min-width: 220px !important;
+  max-width: 220px !important;
+  position: fixed !important;
+  right: 0 !important;
+  top: 120px !important;
+  height: calc(100vh - 120px) !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  padding: 1rem 0.75rem !important;
+  background: #f8f9fa !important;
+  border-left: 3px solid var(--primary-blue) !important;
+  box-shadow: -4px 0 12px rgba(0,0,0,0.1) !important;
+  z-index: 1000 !important;
+}
+
+/* Content takes up remaining space, leaving room for ToC */
+.md-content {
+  margin-left: 0 !important;
+  margin-right: 240px !important;
+  max-width: calc(100% - 240px) !important;
+  padding: 2rem 3rem !important;
+  width: calc(100% - 240px) !important;
+}
+
+.md-main__inner {
+  margin-left: 0 !important;
+  max-width: none !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+/* Make the main grid full width */
+.md-grid {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+}
+
+/* Content inner should expand to fill available space */
+.md-content__inner {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: none !important;
+  width: 100% !important;
+  text-align: left !important;
+}
+
+/* Ensure main content area uses full width */
+.md-main {
+  display: block !important;
+  width: 100% !important;
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 76.25em) {
+  .md-sidebar--secondary {
+    position: static !important;
+    width: 100% !important;
+    max-width: none !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    border-top: 1px solid #e9ecef !important;
+    margin-top: 2rem !important;
+  }
+
+  .md-content {
+    width: 100% !important;
+    margin-right: 0 !important;
+    padding: 1rem 2rem !important;
+  }
+}
+
+/* For very large screens, keep ToC narrow */
+@media screen and (min-width: 100em) {
+  .md-sidebar--secondary {
+    width: 240px !important;
+    max-width: 240px !important;
+    min-width: 240px !important;
+  }
+
+  .md-content {
+    margin-right: 260px !important;
+    max-width: calc(100% - 260px) !important;
+    width: calc(100% - 260px) !important;
+  }
+}
+
+/* Style ToC on right side - make smaller for narrow width */
+.md-nav--secondary .md-nav__title {
+  font-weight: 700;
+  font-size: 0.7rem !important;
+  color: var(--primary-navy) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.3px !important;
+  margin-bottom: 0.75rem !important;
+  padding: 0 0.5rem !important;
+}
+
+.md-nav--secondary .md-nav__link {
+  font-size: 0.7rem !important;
+  padding: 0.3rem 0.5rem !important;
+  transition: color 0.2s ease !important;
+  line-height: 1.3 !important;
+}
+
+.md-nav--secondary .md-nav__link:hover {
+  color: var(--primary-blue) !important;
+}
+
+.md-nav--secondary .md-nav__link--active {
+  color: var(--primary-blue) !important;
+  font-weight: 600 !important;
+  border-left: 3px solid var(--primary-blue) !important;
+  padding-left: 0.75rem !important;
+  background: rgba(52, 152, 219, 0.1) !important;
+}
+
+/* Add spacing to ToC items */
+.md-nav--secondary .md-nav__item {
+  padding: 0.05rem 0 !important;
+}
+
+/* Checklist styling */
+.task-list-item input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+
+.task-list-item input[type="checkbox"]:checked + * {
+  text-decoration: none;
+}
+
+/* Risk badges and metrics */
+.md-typeset strong {
+  color: var(--primary-navy);
+  font-weight: 700;
+}
+
+/* Horizontal rules */
+.md-typeset hr {
+  border: none;
+  border-top: 2px solid #e9ecef;
+  margin: 2rem 0;
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--primary-blue);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.md-typeset a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* Blockquotes */
+.md-typeset blockquote {
+  border-left: 4px solid var(--primary-blue);
+  background: white;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: var(--card-shadow);
+}
+
+/* Lists */
+.md-typeset ul,
+.md-typeset ol {
+  padding-left: 2rem;
+}
+
+.md-typeset li {
+  margin: 0.5rem 0;
+}
+
+/* Special highlight boxes */
+.md-typeset .admonition.tip {
+  background: linear-gradient(135deg, #ffffff 0%, #f0fdf4 100%);
+}
+
+.md-typeset .admonition.warning {
+  background: linear-gradient(135deg, #ffffff 0%, #fffbeb 100%);
+}
+
+.md-typeset .admonition.danger {
+  background: linear-gradient(135deg, #ffffff 0%, #fef2f2 100%);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .md-typeset h1 {
+    font-size: 2rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.5rem;
+  }
+
+  .md-content {
+    padding: 1rem;
+  }
+
+  .md-typeset .grid {
+    grid-template-columns: 1fr;
+  }
+}
