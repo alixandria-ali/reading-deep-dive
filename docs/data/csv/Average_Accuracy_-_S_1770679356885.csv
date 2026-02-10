@@ -1,0 +1,556 @@
+﻿"Student","Campus","Level","Average Accuracy"
+"Edward Qu","Alpha School Brownsville","LL",0.449
+"Liam Rahim","Montessorium Cedar Park","LL",0.4865
+"Noah Cowher","Alpha School Austin","MS",0.5537
+"Jake Signor","Alpha School Austin","L1",0.5827
+"Mason McDougald","Texas Sports Academy","MS",0.5838
+"Marshall Jensen","Texas Sports Academy","L2",0.5854
+"Parker Pesek","Alpha School Austin","MS",0.5875
+"Lukas Siers","Alpha School Austin","L2",0.5945
+"Ozzie Lowe","Alpha School Miami","MS",0.6023
+"Griffin Farnham","Alpha School Scottsdale","L1",0.6092
+"Lincoln Thomas","Alpha High School","HS",0.6126
+"Kai Lever","Texas Sports Academy","MS",0.6345
+"Aster Burns","Alpha School Brownsville","L1",0.6347
+"Raphael Shinar","Alpha School Austin","L1",0.6352
+"Cameron Caldbeck","Alpha School San Francisco","LL",0.6356
+"Victoria Leal","Alpha School Brownsville","LL",0.6412
+"Zara La Pointe","Alpha School Austin","L2",0.6413
+"Emery Cox","Alpha School Brownsville","L1",0.6431
+"Rivers Yong","Alpha School Austin","L1",0.6486
+"Stone Meyers","Texas Sports Academy","MS",0.6501
+"Lily Gray","Alpha School Brownsville","MS",0.6511
+"Jacob Kuchinsky","Alpha High School","HS",0.6522
+"Grayson Hoffman","Alpha School Chantilly","L1",0.6525
+"Helio Ortiz","Alpha School Austin","L2",0.6549
+"DaveyP Paul","Alpha School Austin","L2",0.6567
+"Aksel Jensen","Texas Sports Academy","MS",0.6619
+"Jack Cotner","Alpha School Austin","MS",0.6631
+"Giulia Scandella","Alpha School Miami","L2",0.6636
+"Austin Wong","Alpha School San Francisco","L1",0.6654
+"Abigail Hunter","Alpha School Brownsville","L1",0.6679
+"Diego Bash","Alpha School Austin","LL",0.6685
+"Jarius Collins","Nova Academy Austin","L2",0.6744
+"Elaina Robertson","Alpha School Austin","L2",0.6766
+"Tomi Fernandez","Alpha School Miami","MS",0.677
+"Sarah Hunter","Alpha School Brownsville","L2",0.6774
+"Donny Warm","Alpha School Santa Barbara","MS",0.6794
+"Liv Brodsky","Alpha Anywhere Center","L2",0.6804
+"Jacob Berman","Alpha School Austin","L1",0.681
+"Iker Negrete","Alpha School Austin","MS",0.6826
+"David Sheldon","Alpha School Miami","MS",0.6843
+"Love Lalla-Pagan","Alpha School Austin","MS",0.6846
+"Arjun Caberwal","Alpha School Austin","L2",0.6856
+"Harper Hawkins","Alpha School Austin","L2",0.6863
+"Gus Castillo","Alpha High School","HS",0.6878
+"Zarielle Vela","Alpha School Brownsville","L2",0.6878
+"Wyatt Signor","Alpha School Austin","L2",0.6944
+"Ethan Wong","Alpha School San Francisco","MS",0.6965
+"Rhys Björendahl","Alpha School Austin","MS",0.6973
+"Annabelle Lembo","Alpha Anywhere Center","L2",0.7005
+"Odeya Shinar","Alpha School Austin","L1",0.7008
+"Bella Barba","Alpha School Miami","MS",0.7017
+"Mateo Sanchez","Alpha School Miami","L2",0.7023
+"Joshua Mullins","Nova Academy Bastrop","L2",0.7031
+"Ginny Gray","Alpha School Brownsville","L2",0.7032
+"Emma Baklanova","Alpha School Lake Forest","L2",0.7038
+"Nico Mora","Alpha School Miami","MS",0.7065
+"Estella Estrada","Alpha School Miami","HS",0.7069
+"Jace Guilarte","Alpha School Miami","L1",0.7077
+"Ferran Reddy","Alpha School Austin","LL",0.708
+"Luna Montagna","Alpha School Miami","L2",0.7084
+"Sophia Reicher","Alpha School Austin","L2",0.7092
+"Connor Cason","Alpha School Austin","L2",0.7097
+"Elena Mentgen","Alpha School Austin","MS",0.7103
+"Asaph Park","Alpha School Miami","LL",0.7104
+"Duke Ajouz","Alpha School Austin","L2",0.7104
+"Aleina Boyce","Alpha School Austin","L2",0.7114
+"Ellen Meegan","Alpha School Austin","MS",0.7128
+"Zoey Peden","Alpha School Brownsville","L1",0.7143
+"Zion Clark","Alpha School Austin","L2",0.7145
+"Jalayah Washington","Nova Academy Austin","MS",0.7152
+"Rocco Benetti","Alpha School Austin","MS",0.7159
+"Ben Tierney","Alpha School San Francisco","MS",0.7177
+"Kai Sticker","Alpha School Austin","MS",0.718
+"Eva Skinner","Montessorium Cedar Park","LL",0.7188
+"Brandon Gonzales","Nova Academy Bastrop","L1",0.7189
+"Jude Hock","Alpha School Austin","MS",0.7195
+"Ross Margraves","Alpha High School","HS",0.7201
+"Ruby Roark","Alpha School Scottsdale","L2",0.7201
+"Kanhai Shah","Alpha School Austin","MS",0.7214
+"Tyson Karp","Alpha School Austin","MS",0.7223
+"Gia Clark","Alpha School Austin","L1",0.7224
+"Beau Stern","Alpha School Austin","L2",0.7225
+"Brooklyn Allred","Alpha School Austin","L2",0.7229
+"Corinne McGowan","Texas Sports Academy","L1",0.7248
+"Blair Obrecht","Alpha School Fort Worth","L2",0.725
+"GlenEric Ostrander","Alpha Anywhere Center","MS",0.7254
+"Nadine Romman","Alpha School Austin","MS",0.7257
+"Noah Noorani","Alpha School Miami","L2",0.7257
+"Mebin Timilsina","Montessorium Cedar Park","L1",0.7264
+"Leah Abramovich","Alpha Anywhere Center","MS",0.7277
+"Saeed Tarawneh","Alpha High School","HS",0.7303
+"David Nolan","Alpha School Austin","L2",0.7308
+"Angel Gonzalez-Romero","Nova Academy Austin","L2",0.7312
+"Conan Hogan","Alpha Anywhere Center","L1",0.7314
+"Jake Grimes","Montessorium Cedar Park","LL",0.7318
+"Ethan Bale","Alpha School Brownsville","L1",0.7335
+"Sara Beth Way","Alpha High School","HS",0.7339
+"Antonio Gutierrez","Alpha School Miami","L2",0.7346
+"Armin Rouwet","Alpha School Austin","MS",0.735
+"Zayen Szpitalak","Alpha High School","HS",0.7363
+"Garrett Mullins","Nova Academy Bastrop","L2",0.7366
+"Lisa Olson","Nova Academy Bastrop","L1",0.738
+"Ian Mentgen","Alpha School Austin","L2",0.7386
+"Sam Ratcliff","Alpha School Austin","MS",0.7389
+"Jason Dziuba","Alpha School Miami","MS",0.7401
+"Bailey Carlson","Alpha School Austin","MS",0.7402
+"Gardner Edwards","GT School","MS",0.741
+"Ezra Allred","Alpha School Austin","L1",0.7417
+"Angus Duncan","Alpha School Santa Barbara","MS",0.7418
+"Arman Caberwal","Alpha School Austin","L2",0.7425
+"Omar Ibarra","Texas Sports Academy","L2",0.7425
+"D'sean Harden II","Texas Sports Academy","L2",0.7438
+"Calvin Barraza","GT School","L1",0.7439
+"Luke Hock","Alpha School Austin","MS",0.7443
+"Mira Kambic","Texas Sports Academy","L2",0.7446
+"McKayla Caldbeck","Alpha School San Francisco","L2",0.7459
+"Vivian Ajouz","Alpha School Austin","L1",0.7468
+"Neo Injam","NextGen Academy","L1",0.7471
+"Anya Ackerson","Alpha School Austin","L2",0.7473
+"Shepperd Pfiester","Alpha School Austin","MS",0.7478
+"Reed Robertson","Alpha School Austin","L1",0.7479
+"Seby Holzhauer","Alpha School Brownsville","LL",0.7491
+"Austin Lin","Alpha High School","HS",0.7498
+"Sol Felicevich","Alpha School Miami","MS",0.7499
+"Raegan Middleton","Alpha School Brownsville","MS",0.75
+"Ben Laserna","Alpha School Miami","L1",0.7501
+"Lex DeMaree","Alpha School Scottsdale","L2",0.7502
+"Ethan Stromfeld","GT School","L1",0.7504
+"Sydney Barba","Alpha School Miami","HS",0.7506
+"Levi Reeves","Texas Sports Academy","L1",0.7513
+"Kai Tilzer","Alpha School Scottsdale","LL",0.7518
+"Adrienne Laswell","Alpha High School","HS",0.7525
+"Jace Joslyn","Nova Academy Bastrop","LL",0.7528
+"Cami Fernandez","Alpha School Miami","MS",0.7529
+"Griffin Mendes","Montessorium Cedar Park","L2",0.7529
+"Jacob Vandercook","Alpha School Fort Worth","MS",0.7535
+"Nova Victore","GT School","L1",0.7536
+"Brett Noel","Alpha School Austin","L1",0.7539
+"Jackson Price","Alpha High School","HS",0.7542
+"London Politi","Alpha Anywhere Center","L1",0.7548
+"Vasili Giannopoulos","Alpha Anywhere Center","L1",0.7548
+"Orion Campbell","Alpha School Brownsville","MS",0.7549
+"Eva Mentgen","Alpha School Austin","MS",0.7564
+"Lilly Orloff","Alpha School Miami","L2",0.7565
+"Brooks Knight","Alpha School Scottsdale","L1",0.757
+"Rafaela Almanza","Alpha School Brownsville","LL",0.7581
+"Bash Salazar","Alpha School Brownsville","L1",0.7585
+"Jonah Penna","Alpha School Santa Barbara","L2",0.7588
+"Ethan Kim","GT School","LL",0.7591
+"Eric Kenez","GT School","L1",0.7599
+"Jaxon Siers","Alpha School Austin","L2",0.7605
+"Michael Cai","Alpha High School","HS",0.7613
+"Katherine Du","Alpha School Austin","L2",0.7618
+"Vigo Levin","Alpha School Brownsville","LL",0.7623
+"Karthik Bala","Montessorium Cedar Park","LL",0.7631
+"Bobbi Brown","Alpha School Austin","MS",0.7634
+"Brecken Smith","Alpha School Scottsdale","MS",0.7634
+"Pax Ovitz","Alpha Anywhere Center","L2",0.7634
+"Smith Adreon","Texas Sports Academy","L2",0.7635
+"Des Pardi","Alpha School Austin","MS",0.7642
+"Marcus Fuentes","Alpha School Brownsville","MS",0.7647
+"Axl Meyer","Alpha School Scottsdale","L2",0.7655
+"Anaya Lenington","Alpha School Austin","L2",0.7674
+"Hinano Tamura","Alpha School Miami","HS",0.7683
+"Cristobal Delgado","Alpha School Brownsville","L2",0.7684
+"Joseph Ahanobi-Ikekwere, Jr","GT School","L1",0.7687
+"Maren Ackerson","Alpha School Austin","L1",0.7689
+"Luca Stroman","Alpha School Miami","L1",0.7697
+"James Gregory","Alpha School Austin","L1",0.7702
+"Jameson Walsh","Alpha School Scottsdale","L1",0.7702
+"Justin Rodriguez","Alpha School Miami","HS",0.7705
+"Luca Sanchez","Alpha School Miami","HS",0.7707
+"Gigi Gurrola","Alpha School Brownsville","LL",0.7709
+"Elijah Hunter","Alpha School Brownsville","LL",0.7712
+"Savannah Marrero","Alpha School Brownsville","MS",0.7714
+"Santiago Vasquez Lazo","Alpha School Miami","MS",0.7719
+"Asher Hazard","Alpha School Miami","L2",0.7724
+"Roarke Radia","Alpha School Austin","MS",0.7724
+"Finley Smith","Alpha School San Francisco","MS",0.7727
+"Grady Swanson","Alpha High School","HS",0.7727
+"Parker Carlson","Alpha School Austin","MS",0.7727
+"Anthem Thomas","Alpha School Austin","LL",0.7731
+"Amelia Gabler","Alpha School Brownsville","L1",0.7733
+"Ava Ackerson","Alpha School Austin","L2",0.7737
+"Nour Romman","Alpha School Austin","L1",0.7737
+"Jesse Crain, Jr","Alpha School San Francisco","LL",0.7738
+"Felix Cole","NextGen Academy","MS",0.7739
+"Rhys Robertson","Alpha School Santa Barbara","MS",0.7741
+"Jacob Mooso","NextGen Academy","L1",0.7742
+"Emori McDaniel","Alpha School Fort Worth","L2",0.7753
+"Elle Zak","Alpha School Miami","L2",0.7754
+"Izzy Vicente","Alpha School Miami","HS",0.7755
+"Vayda Hendle","Alpha School Austin","MS",0.7758
+"Austin Caldbeck","Alpha School San Francisco","L1",0.777
+"Gavyn Martinez","Alpha School Miami","MS",0.7771
+"Abi Constain","Alpha School Miami","MS",0.7774
+"Crinion Levin","Alpha School Scottsdale","MS",0.7775
+"Kira Fuerst","Alpha School Austin","L2",0.7777
+"Eden Meave","Alpha School Scottsdale","L2",0.7786
+"Oz Robertson","Alpha School Austin","LL",0.7786
+"Lulu Bressan","Alpha School Austin","MS",0.7788
+"Mati Cortazar","Alpha School Miami","L2",0.7789
+"Griffin Smith","Alpha School Scottsdale","L2",0.7796
+"Cooper Gregston","Texas Sports Academy","L1",0.78
+"Ariel Martel","GT School","L2",0.7812
+"Blake Flores","Alpha School Austin","MS",0.7815
+"Reece Knight","Alpha High School","HS",0.7815
+"Geetesh Parelly","Alpha High School","HS",0.7817
+"Emilio Correa","Alpha School Miami","L2",0.7825
+"Cora Ishaq","Alpha School Lake Forest","L1",0.7827
+"Jenny Thomason","Texas Sports Academy","LL",0.7828
+"Krish Bhakta","GT School","MS",0.7833
+"Athena Soni","Montessorium Cedar Park","LL",0.784
+"Brooke Tracy","Alpha School Austin","L2",0.784
+"North Griswold","Texas Sports Academy","L1",0.7845
+"Enzo Noorani","Alpha School Miami","L1",0.7854
+"Zane Thornton","Texas Sports Academy","MS",0.7855
+"Bennett Morris","NextGen Academy","MS",0.7861
+"Milan Marcinek","Alpha School Scottsdale","MS",0.7863
+"Nathan Scharf","Alpha School Austin","MS",0.7864
+"Javier Martinez","Alpha School Miami","L1",0.7865
+"Brady York","Alpha School Austin","L2",0.7873
+"Noah Hastings","Alpha School Scottsdale","L2",0.7875
+"Cruz Keller","Alpha School Austin","MS",0.788
+"Joan Olson","Nova Academy Bastrop","MS",0.7884
+"Emily Smith","Alpha High School","HS",0.7888
+"Amelia Barakat","Alpha School Miami","L1",0.7897
+"Daphne Woods","Alpha School Austin","MS",0.7899
+"Emma Correa","Alpha School Miami","MS",0.7905
+"Eva Joan Martinez","Alpha School Miami","LL",0.7907
+"Hayden Temcharoen","Alpha School Austin","L1",0.7913
+"Lucia Scaletta","Alpha High School","HS",0.7913
+"Jason Montagna","Alpha School Miami","MS",0.7918
+"Lavender Marrero","Alpha School Brownsville","MS",0.7922
+"Hayes Burman","Alpha School Austin","L1",0.7938
+"Otto Metzger","Texas Sports Academy","MS",0.7938
+"Alex Lekic Brajovic","Texas Sports Academy","L2",0.7941
+"Aiden Richardson","Alpha School Austin","LL",0.7944
+"Claudia Rossello","Alpha School Chantilly","MS",0.7958
+"Ella Gremont","Alpha High School","HS",0.7961
+"Austin Way","Alpha High School","HS",0.7965
+"Kaiden Szpitalak","Alpha School Austin","MS",0.7972
+"Gwendolyn Meegan","Alpha School Austin","MS",0.7973
+"Catherine Caballero","Alpha School Miami","L1",0.7977
+"Andie Childress","Texas Sports Academy","MS",0.7989
+"Aileya Klinefelter","Alpha School Austin","MS",0.7993
+"Daniel Calvo","Alpha School Miami","LL",0.7993
+"Max Jimenez","Alpha School Miami","L2",0.7996
+"Edgar Shinar","Alpha School Austin","MS",0.7997
+"Griffin Wittenborn","Alpha School Chantilly","L1",0.8002
+"Atticus Gieskes","Nova Academy Bastrop","L2",0.8008
+"Dax Hummel","GT School","L2",0.8009
+"Armaan Kajani","Alpha School Austin","MS",0.8011
+"Kai Abromovitz","Alpha School Scottsdale","L2",0.8011
+"Sarah Alcaraz Rico","Alpha School Miami","L2",0.8012
+"Arjun Rana","Montessorium Cedar Park","MS",0.8017
+"Ellis Kyung","Alpha School Austin","LL",0.8021
+"Wyatt Victore","GT School","L2",0.8024
+"Hyrule Petrelli","Alpha School Brownsville","L2",0.8026
+"Scarlett Zarabi","Texas Sports Academy","MS",0.8026
+"Jack Bromberg","Alpha School Austin","MS",0.8029
+"Naomi Kocek","Alpha School Austin","MS",0.8031
+"Leo Wright","Alpha School Brownsville","L1",0.8032
+"Aheli Shah","Alpha High School","HS",0.8038
+"Gus Haig","Alpha School Santa Barbara","L2",0.8048
+"Cameron White","Alpha School Scottsdale","L2",0.8052
+"Jacob Atamas","Alpha School Austin","MS",0.8057
+"Ali Romman","Alpha High School","HS",0.8063
+"Annalise Faheem","Alpha School Lake Forest","L1",0.8071
+"Emma Slifka","Alpha Anywhere Center","MS",0.8071
+"A'Leiah Jenkins","Nova Academy Austin","L1",0.8078
+"Mila Atamas","Alpha School Austin","MS",0.808
+"Zeke Knight","Alpha School Austin","MS",0.8081
+"Lauren Harden","Texas Sports Academy","L1",0.8083
+"Magnus Liodden","Alpha School Miami","L1",0.8086
+"Nico Blanco","Alpha School Austin","LL",0.8095
+"Ari Faheem","Alpha School Lake Forest","L2",0.8096
+"Hana Wong","Alpha School Lake Forest","L1",0.8098
+"Evie Anderson","Alpha School Miami","L2",0.81
+"Ansel Coffey","NextGen Academy","L2",0.8123
+"Olivia Hirsch","Alpha School Austin","MS",0.8123
+"Mallory Hobart","GT School","L1",0.8124
+"Allison Kim","Texas Sports Academy","L1",0.813
+"Oliver Overton","Alpha School Austin","L2",0.813
+"Riana Parikh","GT School","L1",0.8148
+"Pedro Rossello","Alpha School Chantilly","L1",0.8149
+"Nate Kelly","Alpha School Lake Forest","L2",0.8154
+"Ella McMurry","Alpha School Austin","MS",0.8163
+"Hayden Pogue","Alpha School Plano","L1",0.8165
+"Hayden Jones","Alpha School Austin","LL",0.8167
+"Alyan Slizza","Alpha School Austin","L2",0.817
+"Aila Wong","Alpha School San Francisco","MS",0.8175
+"Hildy Grimm","Alpha Anywhere Center","LL",0.8177
+"Ella Dietz","Alpha High School","HS",0.8188
+"Leo Montagna","Alpha School Miami","L1",0.8188
+"Artemis Schiettecatte","Alpha High School","HS",0.8203
+"Madeleine Grams","Alpha High School","HS",0.8203
+"Maddie Price","Alpha High School","HS",0.8206
+"Graham Gattegno","Alpha School Lake Forest","L1",0.8207
+"Theo Jenkins","Alpha School Santa Barbara","MS",0.8213
+"Evelyn Gabler","Alpha School Brownsville","MS",0.8216
+"Sofia Page","Alpha School Miami","MS",0.8223
+"Nash Niccolls","Alpha School Miami","LL",0.8226
+"Isa De La Riva","Alpha School Miami","L1",0.8231
+"Mya Hadnot","Nova Academy Austin","L1",0.8234
+"Arden Kaplan","Alpha School San Francisco","LL",0.8244
+"Meka Hossaini-Joudrey","Alpha School Brownsville","LL",0.8245
+"Julie Saint","Alpha School Miami","L2",0.8247
+"Scarlett Meyer","Alpha School Scottsdale","L1",0.8253
+"Sebi Cobas","Alpha School Miami","MS",0.8253
+"Sammy Strems","Alpha School Miami","L2",0.8255
+"Liam Moore","Alpha School Santa Barbara","HS",0.8259
+"Jack Delbridge","Texas Sports Academy","LL",0.8261
+"Eli Slifka","Alpha Anywhere Center","MS",0.8262
+"Jack Tierney","Alpha School San Francisco","MS",0.8267
+"Nayel Bajwa","Alpha School Lake Forest","LL",0.8273
+"Lawson Shilt","Texas Sports Academy","MS",0.8281
+"Jax McCuistion","NextGen Academy","L1",0.8285
+"Jimmy Moore","Alpha School Austin","L1",0.8288
+"June Rockefeller","Alpha School San Francisco","MS",0.8288
+"Aoife Moore","Alpha School Austin","MS",0.8289
+"Saachi Sharma","Alpha School Austin","L1",0.8295
+"Kriya Santhoshkumar","Montessorium Cedar Park","L1",0.8296
+"Reia Wong","Alpha School Austin","LL",0.8299
+"Branson Pfiester","Alpha High School","HS",0.83
+"Jay Lever","Texas Sports Academy","L2",0.8302
+"Taliah Granados","Alpha School Austin","L2",0.8302
+"Eddie Margain-Junco","Alpha School Austin","MS",0.8304
+"Woody Wilcox","Alpha School Austin","LL",0.8304
+"Byron Attridge","Alpha School Austin","MS",0.8306
+"Zane Rogers","Texas Sports Academy","L2",0.8308
+"Blake Richheimer","Alpha Anywhere Center","L1",0.8309
+"Leoxinelys Campos-Ferrebus","Nova Academy Austin","MS",0.8315
+"Lorenzo Mooso","NextGen Academy","L2",0.8324
+"Victoria Marin Barrios","Nova Academy Austin","L1",0.8325
+"George Troxell","Alpha School Austin","L2",0.8326
+"Phoenix Knight","Texas Sports Academy","L2",0.8326
+"Mila Tinkler","Alpha School Scottsdale","L2",0.8333
+"Mikyle Sattar","Alpha School Austin","MS",0.8338
+"Donnie Moore","Alpha School Austin","L2",0.8342
+"Lucius Walker","Texas Sports Academy","L1",0.8354
+"Everett Mroczkowski","Nova Academy Bastrop","L1",0.8356
+"Rania Caberwal","Alpha School Austin","MS",0.8356
+"Ethan Dailey","Alpha School Scottsdale","LL",0.8357
+"Ramsey Levin","Alpha School Brownsville","L2",0.8359
+"Faustina Ngambo-Kialengele","Nova Academy Austin","L1",0.8361
+"Emilia Lobo","Alpha School Austin","L1",0.8362
+"Keaton Beck","Alpha School Fort Worth","L1",0.8362
+"Analea Lopez","Nova Academy Bastrop","L1",0.8363
+"Valentina Melendez","Alpha School Austin","MS",0.8366
+"Boris Dudarev","Alpha School Miami","HS",0.8371
+"Carter Tinkler","Alpha School Scottsdale","L2",0.8373
+"Ben Doherty","Alpha School Scottsdale","MS",0.838
+"Caleb Walker","Alpha High School","HS",0.838
+"Elliott Rudnicki","Alpha School Scottsdale","LL",0.838
+"Stella Cole","Alpha High School","HS",0.8381
+"Kavin Lingham","Alpha High School","HS",0.8385
+"Zander Halili","Montessorium Cedar Park","L1",0.8385
+"Blake Price","Alpha School Austin","L1",0.8386
+"Wayne Zou","GT School","L2",0.8394
+"Ryan Zawatieh","Nova Academy Bastrop","MS",0.8395
+"Logan Campbell","Alpha School Brownsville","L2",0.8398
+"Ananya Kakarlapudi","Alpha High School","HS",0.8399
+"Penny Marty","Alpha School Miami","MS",0.8403
+"Eva Lenington","Alpha School Austin","L1",0.8408
+"Aidan Chase","Alpha School Santa Barbara","MS",0.8417
+"Anthonella Ochoa","Nova Academy Austin","L1",0.8417
+"Liam Teh","Alpha School Miami","L2",0.8421
+"Garret Farnham","Alpha School Scottsdale","MS",0.8424
+"Justin Wooley Jr.","Nova Academy Austin","L1",0.8425
+"Neko Lewis","Alpha School Austin","L2",0.8428
+"Sander Gabler","Alpha School Brownsville","MS",0.843
+"Enzo Estrada","Alpha School Miami","LL",0.8433
+"Penelope Carrington","Alpha Anywhere Center","MS",0.844
+"Alessia Kriete","Alpha School Miami","LL",0.8445
+"Emma Cotner","Alpha High School","HS",0.845
+"Pablo Cortazar","Alpha School Miami","L1",0.8456
+"Vikram Singh","Montessorium Cedar Park","LL",0.8466
+"Johnny Darcy","Alpha School Brownsville","MS",0.8469
+"Sarah Schipper","Alpha School Brownsville","L1",0.8473
+"Dean Woods","Alpha School Austin","L2",0.8476
+"Grey Walker","Alpha High School","HS",0.8477
+"Fiona Krajicek","Texas Sports Academy","LL",0.8483
+"Tate Price","Alpha School Austin","L2",0.8483
+"Greyson Robert Boyle","Alpha School Santa Barbara","MS",0.8485
+"Elias Kellemen","Alpha School Miami","MS",0.849
+"Adriana D'Anieri","Alpha School Palm Beach","L1",0.8491
+"Julian Dziuba","Alpha School Miami","L1",0.8491
+"Nora Rosenthal","Alpha School Austin","LL",0.8515
+"Cruce Saunders IV","Alpha High School","HS",0.8516
+"Jensen Langston","Alpha School Scottsdale","MS",0.8525
+"C.J. Wright","Alpha School Brownsville","L1",0.8529
+"Benny Valles","Alpha High School","HS",0.8534
+"Max Rzepecki","Alpha Anywhere Center","L1",0.8534
+"Elijah Knecht","Alpha School Austin","LL",0.8536
+"Aniya Akhund","Alpha School San Francisco","MS",0.8537
+"Connor Baker-Hassell","Alpha School Scottsdale","L2",0.8537
+"Aira Anirudha","Alpha School Austin","L1",0.8547
+"Ben De Amorim","Alpha School Miami","MS",0.8548
+"Vera Li","Alpha High School","HS",0.8551
+"Emil Welinder","Alpha School San Francisco","L1",0.8553
+"Orion Lira","Nova Academy Bastrop","L1",0.8553
+"Livy Fay","Alpha School Scottsdale","LL",0.8556
+"Alisha Kajani","Alpha School Austin","L1",0.8557
+"Johnny Grunow","Alpha School Palm Beach","L2",0.8573
+"Lucas Sanner","GT School","MS",0.8578
+"Lilah Roark","Alpha School Scottsdale","L2",0.8579
+"Gray Marcinek","Alpha School Scottsdale","LL",0.8594
+"Max Brodsky","Alpha Anywhere Center","MS",0.8594
+"Shailene Ferrebus","Nova Academy Austin","LL",0.8599
+"Sage Tilzer","Alpha School Scottsdale","LL",0.8608
+"Mollie McDougald","Alpha High School","HS",0.8609
+"Cruz Munoz","Alpha School Scottsdale","L1",0.861
+"William Nolan","Alpha School Austin","L1",0.8617
+"Gael Gonzalez-Romero","Nova Academy Austin","LL",0.8621
+"Niam Choe","Alpha School Santa Barbara","L2",0.8625
+"Jaya Vora","Alpha Anywhere Center","L2",0.8626
+"Van McDavid","Alpha Anywhere Center","L1",0.8628
+"Claudia Hobart","GT School","L2",0.8629
+"Ren Sticker","Alpha School Austin","L1",0.8635
+"James Finn Pulichino","Alpha School Miami","MS",0.8638
+"Megan Chukwura","Nova Academy Austin","L1",0.8642
+"Max Stone","Alpha School Plano","LL",0.8648
+"Maya Prokupets","Montessorium Cedar Park","LL",0.8655
+"Sloane Price","Alpha High School","HS",0.8656
+"Savi Richardson","Alpha School Austin","LL",0.8657
+"Frankie Faeder","Alpha School Austin","WL",0.8671
+"Jaiden Bhakta","GT School","HS",0.8676
+"Lucian McDavid","Alpha Anywhere Center","L2",0.8681
+"Mox McCuistion","NextGen Academy","L2",0.8682
+"August Pease","GT School","L2",0.8688
+"Willa Rubenstein","Alpha School Austin","L1",0.8688
+"Rêve Stinson","Alpha School Lake Forest","L1",0.869
+"Lucas Skinner","Montessorium Cedar Park","L1",0.8694
+"Luisela Almanza","Alpha School Brownsville","LL",0.8699
+"Clark Cho","Alpha School Palm Beach","LL",0.8703
+"Thiago Rodriguez Penzo","Alpha School Brownsville","WL",0.8703
+"Oscar Beard","Nova Academy Bastrop","MS",0.8705
+"Malaika Negrete","Alpha High School","HS",0.8718
+"Nadia Mercer","Alpha School Austin","WL",0.872
+"Kamila Gonzalez-Romero","Nova Academy Austin","L1",0.8722
+"Lydia Cobas","Alpha School Miami","MS",0.8724
+"Lucy Peden","Alpha School Brownsville","LL",0.8729
+"Lucy Wilkinson","Texas Sports Academy","LL",0.873
+"Jeremy Wang","Alpha High School","HS",0.8742
+"Ada Cone","Alpha Anywhere Center","L1",0.8745
+"Novah Pitre","GT School","LL",0.8747
+"Ariella Sadowsky","Alpha School Plano","L2",0.8748
+"Jojo Stinson","Alpha School Lake Forest","LL",0.8748
+"Rivers Morgan","Alpha School Austin","WL",0.875
+"Ryder Shilt","Texas Sports Academy","MS",0.875
+"Raika Ackman","Alpha Anywhere Center","L1",0.8769
+"Olivia Wojtowicz","Alpha School Lake Forest","L1",0.877
+"Nico Choe","Alpha School Santa Barbara","MS",0.8776
+"Leo Levy","Alpha School Austin","LL",0.8785
+"Maya Gries-Yano","Alpha School San Francisco","L1",0.8789
+"Evanna McDaniel","Alpha School Fort Worth","LL",0.879
+"Leo Clark","Alpha School San Francisco","LL",0.8792
+"Maya Muthuswamy","Alpha School Brownsville","LL",0.8799
+"Oliver McLeod","Alpha Anywhere Center","LL",0.8799
+"Lincoln Criss","Nova Academy Bastrop","L1",0.8802
+"Reuben Runacres","Alpha High School","HS",0.8803
+"Sloka Vudumu","Alpha High School","HS",0.8803
+"Allegra Mauro","Alpha School Austin","MS",0.882
+"Miguel Bash","Alpha School Austin","WL",0.882
+"Ash Hoogstraten","Alpha School Austin","WL",0.8822
+"Charlotte Pogue","Alpha School Plano","LL",0.8829
+"Eric Feltoon","Alpha School Austin","LL",0.883
+"Ben Shaffer","Alpha School Scottsdale","L2",0.8832
+"Alita Sanborn","Alpha School Austin","LL",0.8836
+"Aoife Huey","Alpha High School","HS",0.8837
+"Teddy Obrecht","Alpha School Fort Worth","LL",0.8841
+"Jax Marroquin","Texas Sports Academy","LL",0.8846
+"Arden McCord","Alpha School Austin","LL",0.8847
+"Rocket Roark","Alpha School Scottsdale","LL",0.8848
+"Emma Schipper","Alpha School Brownsville","LL",0.885
+"Alana Marin Barrios","Nova Academy Austin","LL",0.8861
+"JT Kambic","Texas Sports Academy","LL",0.8865
+"Emma Murphy","Alpha School Fort Worth","MS",0.8869
+"Jeronimo Cardenas Garcia","Alpha School Miami","LL",0.8869
+"Paty Margain-Junco","Alpha High School","HS",0.8876
+"Connor Moubry","NextGen Academy","L2",0.8884
+"Isaac David","Alpha School Palm Beach","LL",0.8889
+"Arianna Salazar","Nova Academy Bastrop","L2",0.8905
+"Zenon Zaidi","Texas Sports Academy","L2",0.8907
+"Cate Henry","Alpha Anywhere Center","L2",0.8917
+"Aidan Wong","Alpha School San Francisco","HS",0.8919
+"Octavia Gieskes","Nova Academy Bastrop","LL",0.8919
+"Eastwood Washburn","Texas Sports Academy","L2",0.8921
+"Jiwoo Choi","Montessorium Cedar Park","LL",0.8924
+"Stella Grams","Alpha High School","HS",0.8936
+"Neel Balija","GT School","LL",0.8946
+"Vini Blanco","Alpha School Austin","WL",0.8969
+"Brooklyn Baez","Alpha School Brownsville","WL",0.8974
+"Ronin Stanton","Alpha School Plano","LL",0.8978
+"Tallulah Chaney","Texas Sports Academy","LL",0.898
+"Clara Modlin","Montessorium Cedar Park","L1",0.8982
+"Dario Poyatos Ramos","Alpha School Austin","MS",0.8983
+"Evan Klein","Alpha High School","HS",0.8988
+"Rowan Wyatt","NextGen Academy","L2",0.8989
+"Pierce McCord","Alpha School Austin","WL",0.8994
+"Zoe Bodnick","Alpha School Miami","HS",0.8995
+"Harper Lembo","Alpha Anywhere Center","LL",0.9015
+"London Plascencia","Alpha School Fort Worth","LL",0.9017
+"Rylan Joseph","Alpha School Austin","LL",0.9021
+"Alice Bateman","Montessorium Cedar Park","LL",0.9024
+"Theodore Salgado-Singer","Alpha School Brownsville","L1",0.9025
+"Riva Stucchio","Montessorium Cedar Park","LL",0.9035
+"Ben Rosenbloom","Alpha School Austin","L1",0.904
+"Ella Clark","Alpha School Austin","LL",0.9041
+"Hunter Taback","Alpha Anywhere Center","L2",0.9051
+"Teddy Dipaola","Alpha School Austin","LL",0.9053
+"Thomas Page","Alpha School Miami","L1",0.9053
+"Avra Tujios","Alpha School Austin","L1",0.9061
+"Lola Propp","Alpha Anywhere Center","L1",0.9066
+"Leila Abony","Alpha School Austin","LL",0.907
+"Jamie Theunissen","Alpha School Austin","LL",0.9071
+"Arlo Knecht","Alpha School Austin","WL",0.9073
+"Hadassah Atamas","Alpha School Austin","LL",0.9084
+"Liam Lenhardt","Alpha High School","HS",0.9091
+"Jessica Owenby","Alpha High School","HS",0.9102
+"Bobby Simonds III","Alpha School Miami","MS",0.9105
+"Wells Lindsley","Alpha School Scottsdale","L1",0.9105
+"Emma Garcia Lerma","Alpha School Brownsville","WL",0.9107
+"Ace Weir","Alpha School San Francisco","LL",0.9111
+"Vic Satijn","GT School","LL",0.9112
+"Tomas Gonzales","Alpha School Austin","L1",0.9116
+"Caleb Chang","Alpha School Lake Forest","LL",0.9124
+"Elle Paul","Alpha School Austin","LL",0.9136
+"Ju Orloff","Alpha School Miami","HS",0.9139
+"Reed Emerton","Alpha School Fort Worth","LL",0.9158
+"Charlie Booth","Alpha School San Francisco","L1",0.918
+"James Chao-Breyer","Alpha School Austin","LL",0.9204
+"Ellis Granados","Alpha School Austin","L1",0.9229
+"Lila Dawson","Alpha School Austin","LL",0.923
+"Tommy Nolan","Alpha School Austin","LL",0.9238
+"Hope Grunow","Alpha School Palm Beach","L1",0.9241
+"Bandon Peterson","Alpha School Austin","LL",0.9246
+"Liam Bryan","Alpha School Plano","WL",0.9248
+"Riley Rosenberg","Alpha School Austin","LL",0.9248
+"Mimi Prospere","Alpha Anywhere Center","MS",0.9284
+"Colm Bowen","Alpha Anywhere Center","LL",0.929
+"Betty Grunow","Alpha School Palm Beach","LL",0.9358
+"Wills Evans","Alpha School Austin","WL",0.9367
+"Jasper Dawson","Alpha School Austin","WL",0.9395
+"Elle Liemandt","Alpha High School","HS",0.9406
+"Sofia Stone","Alpha School Plano","L1",0.9416
+"Scott Baehr","Alpha School Austin","LL",0.9426
+"Erika Rigby","Alpha High School","HS",0.9451
+"Zara Enayati","Montessorium Cedar Park","L1",0.9477
+"Sai Shah","Alpha School Miami","LL",0.9564
+"Alex Mathew","Alpha High School","HS",0.9574
+"Zoya Luna","Alpha School Austin","WL",0.9649
+"Sloane Derham","Alpha School Austin","WL",0.9768
+"Aria Nicholls","Alpha School Austin","WL",0.9779

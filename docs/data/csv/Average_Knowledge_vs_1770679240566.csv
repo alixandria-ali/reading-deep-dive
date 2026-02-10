@@ -1,0 +1,393 @@
+﻿"subject","campus[Alpha Roster for Cross Joins]","alphalevelshort","years_w_2hr","knowledge_age_grade_diff (AVG)"
+"Language","Alpha Anywhere Center","L1","1 year or less",0.7777
+"Language","Alpha Anywhere Center","L2","1 year or less",0.1428
+"Language","Alpha Anywhere Center","LL","1 year or less",1
+"Language","Alpha Anywhere Center","MS","1 year or less",-0.8571
+"Language","Alpha High School","HS","3+ years",-1
+"Language","Alpha High School","HS","2-3 years",1
+"Language","Alpha High School","HS","1-2 years",-0.3333
+"Language","Alpha High School","HS","1 year or less",-1.2666
+"Language","Alpha School Austin","L1","3+ years",0.6666
+"Language","Alpha School Austin","L1","2-3 years",1.3333
+"Language","Alpha School Austin","L1","1-2 years",1.125
+"Language","Alpha School Austin","L1","1 year or less",0.0833
+"Language","Alpha School Austin","L2","3+ years",2
+"Language","Alpha School Austin","L2","2-3 years",1
+"Language","Alpha School Austin","L2","1-2 years",0.5714
+"Language","Alpha School Austin","L2","1 year or less",0.6428
+"Language","Alpha School Austin","LL","1-2 years",1
+"Language","Alpha School Austin","LL","1 year or less",0.7222
+"Language","Alpha School Austin","MS","3+ years",1.6428
+"Language","Alpha School Austin","MS","1-2 years",0.4615
+"Language","Alpha School Austin","MS","1 year or less",-1.6666
+"Language","Alpha School Austin","WL","1 year or less",1
+"Language","Alpha School Brownsville","L1","3+ years",0
+"Language","Alpha School Brownsville","L1","2-3 years",1.5
+"Language","Alpha School Brownsville","L1","1-2 years",1.2857
+"Language","Alpha School Brownsville","L1","1 year or less",-0.5
+"Language","Alpha School Brownsville","L2","3+ years",0
+"Language","Alpha School Brownsville","L2","2-3 years",2
+"Language","Alpha School Brownsville","L2","1-2 years",1
+"Language","Alpha School Brownsville","L2","1 year or less",0
+"Language","Alpha School Brownsville","LL","2-3 years",0.6666
+"Language","Alpha School Brownsville","LL","1-2 years",1.1111
+"Language","Alpha School Brownsville","MS","2-3 years",1
+"Language","Alpha School Brownsville","MS","1-2 years",-1.5
+"Language","Alpha School Brownsville","MS","1 year or less",0
+"Language","Alpha School Brownsville","WL","1-2 years",2
+"Language","Alpha School Brownsville","WL","1 year or less",2
+"Language","Alpha School Chantilly","L1","1 year or less",0.3333
+"Language","Alpha School Chantilly","MS","1 year or less",-2
+"Language","Alpha School Fort Worth","L1","1 year or less",0
+"Language","Alpha School Fort Worth","L2","1 year or less",0.5
+"Language","Alpha School Fort Worth","LL","1 year or less",0.75
+"Language","Alpha School Fort Worth","MS","1 year or less",0
+"Language","Alpha School Lake Forest","L1","1 year or less",0.1666
+"Language","Alpha School Lake Forest","L2","1 year or less",-1
+"Language","Alpha School Lake Forest","LL","1 year or less",-0.6666
+"Language","Alpha School Miami","HS","1-2 years",0
+"Language","Alpha School Miami","HS","1 year or less",-0.375
+"Language","Alpha School Miami","L1","1-2 years",0
+"Language","Alpha School Miami","L1","1 year or less",0.1818
+"Language","Alpha School Miami","L2","1-2 years",0
+"Language","Alpha School Miami","L2","1 year or less",-0.3333
+"Language","Alpha School Miami","LL","1-2 years",0
+"Language","Alpha School Miami","LL","1 year or less",0.3333
+"Language","Alpha School Miami","MS","1-2 years",0.3333
+"Language","Alpha School Miami","MS","1 year or less",-0.9444
+"Language","Alpha School Palm Beach","L1","1 year or less",1.5
+"Language","Alpha School Palm Beach","L2","1 year or less",0
+"Language","Alpha School Palm Beach","LL","1 year or less",1.6666
+"Language","Alpha School Plano","L1","1 year or less",-0.5
+"Language","Alpha School Plano","L2","1 year or less",-2
+"Language","Alpha School Plano","LL","1 year or less",0.6666
+"Language","Alpha School Plano","WL","1 year or less",1
+"Language","Alpha School San Francisco","HS","1 year or less",-2
+"Language","Alpha School San Francisco","L1","1 year or less",0.2
+"Language","Alpha School San Francisco","L2","1 year or less",2
+"Language","Alpha School San Francisco","LL","1 year or less",1
+"Language","Alpha School San Francisco","MS","1 year or less",-2.1428
+"Language","Alpha School Santa Barbara","HS","1 year or less",-3
+"Language","Alpha School Santa Barbara","L2","1 year or less",0
+"Language","Alpha School Santa Barbara","MS","1 year or less",-1.2857
+"Language","Alpha School Scottsdale","L1","1 year or less",0
+"Language","Alpha School Scottsdale","L2","1 year or less",-0.6923
+"Language","Alpha School Scottsdale","LL","1 year or less",0.2857
+"Language","Alpha School Scottsdale","MS","1 year or less",-1
+"Language","GT School","HS","1-2 years",4
+"Language","GT School","L1","1-2 years",1.3333
+"Language","GT School","L1","1 year or less",1
+"Language","GT School","L2","3+ years",4
+"Language","GT School","L2","1-2 years",1
+"Language","GT School","L2","1 year or less",0.75
+"Language","GT School","LL","1 year or less",1.5
+"Language","GT School","MS","1-2 years",1.5
+"Language","GT School","MS","1 year or less",0
+"Language","Montessorium Cedar Park","L1","1 year or less",0.1666
+"Language","Montessorium Cedar Park","L2","1 year or less",-1
+"Language","Montessorium Cedar Park","LL","1 year or less",0.6666
+"Language","Montessorium Cedar Park","MS","1 year or less",-3
+"Language","NextGen Academy","L1","1 year or less",-0.3333
+"Language","NextGen Academy","L2","1 year or less",-0.4
+"Language","NextGen Academy","MS","1-2 years",-0.5
+"Language","Nova Academy Austin","L1","1-2 years",-0.7142
+"Language","Nova Academy Austin","L1","1 year or less",-1
+"Language","Nova Academy Austin","L2","1-2 years",-1.5
+"Language","Nova Academy Austin","LL","1 year or less",0
+"Language","Nova Academy Austin","MS","1-2 years",-3
+"Language","Nova Academy Bastrop","L1","1 year or less",0.5
+"Language","Nova Academy Bastrop","L2","1 year or less",-0.75
+"Language","Nova Academy Bastrop","LL","1 year or less",1.5
+"Language","Nova Academy Bastrop","MS","1 year or less",-1.6666
+"Language","Texas Sports Academy","L1","3+ years",2
+"Language","Texas Sports Academy","L1","1-2 years",0.6666
+"Language","Texas Sports Academy","L1","1 year or less",0.6666
+"Language","Texas Sports Academy","L2","1-2 years",0.6666
+"Language","Texas Sports Academy","L2","1 year or less",-1
+"Language","Texas Sports Academy","LL","1 year or less",0.7142
+"Language","Texas Sports Academy","MS","1-2 years",-4
+"Language","Texas Sports Academy","MS","1 year or less",-1.25
+"Math","Alpha Anywhere Center","L1","1 year or less",1
+"Math","Alpha Anywhere Center","L2","1 year or less",0.2857
+"Math","Alpha Anywhere Center","LL","1 year or less",0.75
+"Math","Alpha Anywhere Center","MS","1 year or less",-1.5714
+"Math","Alpha High School","HS","3+ years",-0.5454
+"Math","Alpha High School","HS","2-3 years",-1
+"Math","Alpha High School","HS","1-2 years",-0.4285
+"Math","Alpha High School","HS","1 year or less",-1.25
+"Math","Alpha School Austin","L1","3+ years",1.3333
+"Math","Alpha School Austin","L1","2-3 years",1.1666
+"Math","Alpha School Austin","L1","1-2 years",0.8888
+"Math","Alpha School Austin","L1","1 year or less",0.4166
+"Math","Alpha School Austin","L2","3+ years",0.8
+"Math","Alpha School Austin","L2","2-3 years",0
+"Math","Alpha School Austin","L2","1-2 years",0
+"Math","Alpha School Austin","L2","1 year or less",0.0714
+"Math","Alpha School Austin","LL","1-2 years",1.25
+"Math","Alpha School Austin","LL","1 year or less",0.7368
+"Math","Alpha School Austin","MS","3+ years",0.7142
+"Math","Alpha School Austin","MS","1-2 years",-0.6923
+"Math","Alpha School Austin","MS","1 year or less",-1.3809
+"Math","Alpha School Austin","WL","1 year or less",1
+"Math","Alpha School Brownsville","L1","3+ years",0
+"Math","Alpha School Brownsville","L1","2-3 years",1.5
+"Math","Alpha School Brownsville","L1","1-2 years",1.1428
+"Math","Alpha School Brownsville","L1","1 year or less",0
+"Math","Alpha School Brownsville","L2","3+ years",0
+"Math","Alpha School Brownsville","L2","2-3 years",-0.5
+"Math","Alpha School Brownsville","L2","1-2 years",-0.5
+"Math","Alpha School Brownsville","L2","1 year or less",-0.5
+"Math","Alpha School Brownsville","LL","2-3 years",1.6666
+"Math","Alpha School Brownsville","LL","1-2 years",1.2222
+"Math","Alpha School Brownsville","MS","2-3 years",-0.6
+"Math","Alpha School Brownsville","MS","1-2 years",-2
+"Math","Alpha School Brownsville","MS","1 year or less",-2
+"Math","Alpha School Brownsville","WL","1-2 years",2
+"Math","Alpha School Brownsville","WL","1 year or less",1
+"Math","Alpha School Chantilly","L1","1 year or less",0.6666
+"Math","Alpha School Chantilly","MS","1 year or less",-2
+"Math","Alpha School Fort Worth","L1","1 year or less",1
+"Math","Alpha School Fort Worth","L2","1 year or less",0
+"Math","Alpha School Fort Worth","LL","1 year or less",1
+"Math","Alpha School Fort Worth","MS","1 year or less",-3
+"Math","Alpha School Lake Forest","L1","1 year or less",-0.3333
+"Math","Alpha School Lake Forest","L2","1 year or less",-1.3333
+"Math","Alpha School Lake Forest","LL","1 year or less",1
+"Math","Alpha School Miami","HS","1-2 years",0
+"Math","Alpha School Miami","HS","1 year or less",-0.75
+"Math","Alpha School Miami","L1","1-2 years",0
+"Math","Alpha School Miami","L1","1 year or less",0
+"Math","Alpha School Miami","L2","1-2 years",0
+"Math","Alpha School Miami","L2","1 year or less",-0.5333
+"Math","Alpha School Miami","LL","1-2 years",1
+"Math","Alpha School Miami","LL","1 year or less",1
+"Math","Alpha School Miami","MS","1-2 years",-1
+"Math","Alpha School Miami","MS","1 year or less",-1.5
+"Math","Alpha School Palm Beach","L1","1 year or less",0.5
+"Math","Alpha School Palm Beach","L2","1 year or less",-1
+"Math","Alpha School Palm Beach","LL","1 year or less",1.3333
+"Math","Alpha School Plano","L1","1 year or less",-0.5
+"Math","Alpha School Plano","L2","1 year or less",-2
+"Math","Alpha School Plano","LL","1 year or less",0.3333
+"Math","Alpha School Plano","WL","1 year or less",1
+"Math","Alpha School San Francisco","HS","1 year or less",-1
+"Math","Alpha School San Francisco","L1","1 year or less",0.2
+"Math","Alpha School San Francisco","L2","1 year or less",1
+"Math","Alpha School San Francisco","LL","1 year or less",1.75
+"Math","Alpha School San Francisco","MS","1 year or less",-1.8571
+"Math","Alpha School Santa Barbara","HS","1 year or less",-3
+"Math","Alpha School Santa Barbara","L2","1 year or less",-0.6666
+"Math","Alpha School Santa Barbara","MS","1 year or less",-1.4285
+"Math","Alpha School Scottsdale","L1","1 year or less",0.3333
+"Math","Alpha School Scottsdale","L2","1 year or less",-1.0769
+"Math","Alpha School Scottsdale","LL","1 year or less",0.7142
+"Math","Alpha School Scottsdale","MS","1 year or less",-3.3333
+"Math","GT School","HS","1-2 years",1
+"Math","GT School","L1","1-2 years",1
+"Math","GT School","L1","1 year or less",0.6666
+"Math","GT School","L2","3+ years",4
+"Math","GT School","L2","1-2 years",2
+"Math","GT School","L2","1 year or less",1.25
+"Math","GT School","LL","1 year or less",1.75
+"Math","GT School","MS","1-2 years",1.5
+"Math","GT School","MS","1 year or less",-1
+"Math","Montessorium Cedar Park","L1","1 year or less",-0.3333
+"Math","Montessorium Cedar Park","L2","1 year or less",1
+"Math","Montessorium Cedar Park","LL","1 year or less",0.8
+"Math","Montessorium Cedar Park","MS","1 year or less",-2
+"Math","NextGen Academy","L1","1 year or less",0
+"Math","NextGen Academy","L2","1 year or less",-1.2
+"Math","NextGen Academy","MS","1-2 years",-1.5
+"Math","Nova Academy Austin","L1","1-2 years",-0.7777
+"Math","Nova Academy Austin","L1","1 year or less",0
+"Math","Nova Academy Austin","L2","1-2 years",-1.5
+"Math","Nova Academy Austin","LL","1 year or less",0.6666
+"Math","Nova Academy Austin","MS","1-2 years",-3
+"Math","Nova Academy Bastrop","L1","1 year or less",-0.1666
+"Math","Nova Academy Bastrop","L2","1 year or less",-1.25
+"Math","Nova Academy Bastrop","LL","1 year or less",1
+"Math","Nova Academy Bastrop","MS","1 year or less",-0.6666
+"Math","Texas Sports Academy","L1","3+ years",2
+"Math","Texas Sports Academy","L1","1-2 years",1.3333
+"Math","Texas Sports Academy","L1","1 year or less",0.6666
+"Math","Texas Sports Academy","L2","1-2 years",-1.3333
+"Math","Texas Sports Academy","L2","1 year or less",-1
+"Math","Texas Sports Academy","LL","1 year or less",1.2857
+"Math","Texas Sports Academy","MS","1-2 years",-4
+"Math","Texas Sports Academy","MS","1 year or less",-1.5
+"Reading","Alpha Anywhere Center","L1","1 year or less",1
+"Reading","Alpha Anywhere Center","L2","1 year or less",0.2857
+"Reading","Alpha Anywhere Center","LL","1 year or less",1
+"Reading","Alpha Anywhere Center","MS","1 year or less",-1.8333
+"Reading","Alpha High School","HS","3+ years",0.9
+"Reading","Alpha High School","HS","1-2 years",1
+"Reading","Alpha High School","HS","1 year or less",0.65
+"Reading","Alpha School Austin","L1","3+ years",0.6666
+"Reading","Alpha School Austin","L1","2-3 years",1
+"Reading","Alpha School Austin","L1","1-2 years",0.8888
+"Reading","Alpha School Austin","L1","1 year or less",0.25
+"Reading","Alpha School Austin","L2","3+ years",1.3
+"Reading","Alpha School Austin","L2","2-3 years",0
+"Reading","Alpha School Austin","L2","1-2 years",0.5714
+"Reading","Alpha School Austin","L2","1 year or less",0.7857
+"Reading","Alpha School Austin","LL","1-2 years",1
+"Reading","Alpha School Austin","LL","1 year or less",1.1666
+"Reading","Alpha School Austin","MS","3+ years",1.8461
+"Reading","Alpha School Austin","MS","1-2 years",1.3333
+"Reading","Alpha School Austin","MS","1 year or less",-0.9047
+"Reading","Alpha School Austin","WL","1 year or less",1
+"Reading","Alpha School Brownsville","L1","3+ years",0
+"Reading","Alpha School Brownsville","L1","2-3 years",0.5
+"Reading","Alpha School Brownsville","L1","1-2 years",0.4285
+"Reading","Alpha School Brownsville","L1","1 year or less",0
+"Reading","Alpha School Brownsville","L2","3+ years",-1
+"Reading","Alpha School Brownsville","L2","2-3 years",0.5
+"Reading","Alpha School Brownsville","L2","1-2 years",2
+"Reading","Alpha School Brownsville","L2","1 year or less",0.5
+"Reading","Alpha School Brownsville","LL","2-3 years",1.3333
+"Reading","Alpha School Brownsville","LL","1-2 years",1.4444
+"Reading","Alpha School Brownsville","MS","2-3 years",2.2
+"Reading","Alpha School Brownsville","MS","1-2 years",-1
+"Reading","Alpha School Brownsville","MS","1 year or less",1
+"Reading","Alpha School Brownsville","WL","1 year or less",2
+"Reading","Alpha School Chantilly","L1","1 year or less",0.3333
+"Reading","Alpha School Chantilly","MS","1 year or less",-3
+"Reading","Alpha School Fort Worth","L1","1 year or less",1
+"Reading","Alpha School Fort Worth","L2","1 year or less",1.5
+"Reading","Alpha School Fort Worth","LL","1 year or less",2
+"Reading","Alpha School Fort Worth","MS","1 year or less",0.5
+"Reading","Alpha School Lake Forest","L1","1 year or less",0.4
+"Reading","Alpha School Lake Forest","L2","1 year or less",-1.3333
+"Reading","Alpha School Lake Forest","LL","1 year or less",0.5
+"Reading","Alpha School Miami","HS","1-2 years",2
+"Reading","Alpha School Miami","HS","1 year or less",1.125
+"Reading","Alpha School Miami","L1","1-2 years",0.5
+"Reading","Alpha School Miami","L1","1 year or less",0.5454
+"Reading","Alpha School Miami","L2","1-2 years",-1
+"Reading","Alpha School Miami","L2","1 year or less",-0.6
+"Reading","Alpha School Miami","LL","1-2 years",0
+"Reading","Alpha School Miami","LL","1 year or less",1
+"Reading","Alpha School Miami","MS","1-2 years",0.6666
+"Reading","Alpha School Miami","MS","1 year or less",-0.7894
+"Reading","Alpha School Palm Beach","L1","1 year or less",0.5
+"Reading","Alpha School Palm Beach","L2","1 year or less",-1
+"Reading","Alpha School Palm Beach","LL","1 year or less",1.5
+"Reading","Alpha School Plano","L1","1 year or less",-0.5
+"Reading","Alpha School Plano","L2","1 year or less",-2
+"Reading","Alpha School Plano","LL","1 year or less",0.6666
+"Reading","Alpha School San Francisco","L1","1 year or less",0.5
+"Reading","Alpha School San Francisco","L2","1 year or less",1
+"Reading","Alpha School San Francisco","LL","1 year or less",1.6666
+"Reading","Alpha School San Francisco","MS","1 year or less",0.2857
+"Reading","Alpha School Santa Barbara","HS","1 year or less",-1
+"Reading","Alpha School Santa Barbara","L2","1 year or less",0
+"Reading","Alpha School Santa Barbara","MS","1 year or less",-0.8571
+"Reading","Alpha School Scottsdale","L1","1 year or less",0
+"Reading","Alpha School Scottsdale","L2","1 year or less",-0.923
+"Reading","Alpha School Scottsdale","LL","1 year or less",0.3333
+"Reading","Alpha School Scottsdale","MS","1 year or less",-1.1666
+"Reading","GT School","L1","1-2 years",1.3333
+"Reading","GT School","L1","1 year or less",0.6666
+"Reading","GT School","L2","3+ years",4
+"Reading","GT School","L2","1-2 years",0
+"Reading","GT School","L2","1 year or less",2.75
+"Reading","GT School","LL","1 year or less",1.5
+"Reading","GT School","MS","1-2 years",2.5
+"Reading","GT School","MS","1 year or less",3
+"Reading","Montessorium Cedar Park","L1","1 year or less",0
+"Reading","Montessorium Cedar Park","L2","1 year or less",0
+"Reading","Montessorium Cedar Park","LL","1 year or less",1.125
+"Reading","Montessorium Cedar Park","MS","1 year or less",-3
+"Reading","NextGen Academy","L1","1 year or less",1
+"Reading","NextGen Academy","L2","1 year or less",-0.4
+"Reading","NextGen Academy","MS","1-2 years",2.5
+"Reading","Nova Academy Austin","L1","1-2 years",-1.3333
+"Reading","Nova Academy Austin","L1","1 year or less",-2
+"Reading","Nova Academy Austin","L2","1-2 years",-1.5
+"Reading","Nova Academy Austin","LL","1 year or less",0.3333
+"Reading","Nova Academy Austin","MS","1-2 years",-2.5
+"Reading","Nova Academy Bastrop","L1","1 year or less",0.5
+"Reading","Nova Academy Bastrop","L2","1 year or less",-1
+"Reading","Nova Academy Bastrop","LL","1 year or less",2
+"Reading","Nova Academy Bastrop","MS","1 year or less",0.3333
+"Reading","Texas Sports Academy","L1","3+ years",0
+"Reading","Texas Sports Academy","L1","1-2 years",0
+"Reading","Texas Sports Academy","L1","1 year or less",-0.3333
+"Reading","Texas Sports Academy","L2","1-2 years",-0.6666
+"Reading","Texas Sports Academy","L2","1 year or less",-0.7142
+"Reading","Texas Sports Academy","LL","1 year or less",1
+"Reading","Texas Sports Academy","MS","1-2 years",-4
+"Reading","Texas Sports Academy","MS","1 year or less",0.4285
+"Science","Alpha Anywhere Center","L1","1 year or less",0.5
+"Science","Alpha Anywhere Center","L2","1 year or less",0.2
+"Science","Alpha Anywhere Center","MS","1 year or less",-2.7142
+"Science","Alpha High School","HS","3+ years",-0.3333
+"Science","Alpha High School","HS","2-3 years",-1
+"Science","Alpha High School","HS","1-2 years",-0.5
+"Science","Alpha High School","HS","1 year or less",-1.3157
+"Science","Alpha School Austin","L1","3+ years",0
+"Science","Alpha School Austin","L1","2-3 years",1
+"Science","Alpha School Austin","L1","1-2 years",1
+"Science","Alpha School Austin","L1","1 year or less",0.5
+"Science","Alpha School Austin","L2","3+ years",0.9
+"Science","Alpha School Austin","L2","2-3 years",1
+"Science","Alpha School Austin","L2","1-2 years",0.2857
+"Science","Alpha School Austin","L2","1 year or less",0
+"Science","Alpha School Austin","MS","3+ years",0.4615
+"Science","Alpha School Austin","MS","1-2 years",-0.5384
+"Science","Alpha School Austin","MS","1 year or less",-1.3157
+"Science","Alpha School Brownsville","L1","2-3 years",0.5
+"Science","Alpha School Brownsville","L1","1-2 years",1
+"Science","Alpha School Brownsville","L2","3+ years",-1
+"Science","Alpha School Brownsville","L2","2-3 years",0
+"Science","Alpha School Brownsville","L2","1-2 years",0
+"Science","Alpha School Brownsville","L2","1 year or less",-1
+"Science","Alpha School Brownsville","MS","2-3 years",0.2
+"Science","Alpha School Brownsville","MS","1-2 years",-2
+"Science","Alpha School Brownsville","MS","1 year or less",0
+"Science","Alpha School Chantilly","L1","1 year or less",0
+"Science","Alpha School Chantilly","MS","1 year or less",-3
+"Science","Alpha School Fort Worth","L2","1 year or less",-1
+"Science","Alpha School Fort Worth","MS","1 year or less",-1
+"Science","Alpha School Lake Forest","L1","1 year or less",0
+"Science","Alpha School Lake Forest","L2","1 year or less",-1
+"Science","Alpha School Miami","HS","1-2 years",-1
+"Science","Alpha School Miami","HS","1 year or less",-2
+"Science","Alpha School Miami","L1","1 year or less",0.75
+"Science","Alpha School Miami","L2","1-2 years",-1
+"Science","Alpha School Miami","L2","1 year or less",-1.2857
+"Science","Alpha School Miami","MS","1-2 years",-2
+"Science","Alpha School Miami","MS","1 year or less",-2.2352
+"Science","Alpha School Palm Beach","L2","1 year or less",-1
+"Science","Alpha School San Francisco","HS","1 year or less",-2
+"Science","Alpha School San Francisco","L1","1 year or less",0.6666
+"Science","Alpha School San Francisco","L2","1 year or less",-1
+"Science","Alpha School San Francisco","MS","1 year or less",-2.5714
+"Science","Alpha School Santa Barbara","HS","1 year or less",-3
+"Science","Alpha School Santa Barbara","MS","1 year or less",-2
+"Science","Alpha School Scottsdale","L1","1 year or less",0
+"Science","Alpha School Scottsdale","L2","1 year or less",-0.75
+"Science","Alpha School Scottsdale","MS","1 year or less",-2
+"Science","GT School","HS","1-2 years",1
+"Science","GT School","L1","1-2 years",2
+"Science","GT School","L1","1 year or less",0.5
+"Science","GT School","L2","3+ years",2
+"Science","GT School","L2","1-2 years",1
+"Science","GT School","L2","1 year or less",1.25
+"Science","GT School","MS","1-2 years",0.5
+"Science","GT School","MS","1 year or less",0
+"Science","Montessorium Cedar Park","L1","1 year or less",1
+"Science","Montessorium Cedar Park","L2","1 year or less",0
+"Science","Montessorium Cedar Park","MS","1 year or less",-2
+"Science","NextGen Academy","L1","1 year or less",1
+"Science","NextGen Academy","L2","1 year or less",-0.3333
+"Science","NextGen Academy","MS","1-2 years",-2
+"Science","Nova Academy Bastrop","L1","1 year or less",1
+"Science","Nova Academy Bastrop","L2","1 year or less",0
+"Science","Nova Academy Bastrop","MS","1 year or less",-0.3333
+"Science","Texas Sports Academy","L1","3+ years",0
+"Science","Texas Sports Academy","L1","1-2 years",1.5
+"Science","Texas Sports Academy","L2","1-2 years",-0.6666
+"Science","Texas Sports Academy","L2","1 year or less",-0.25
+"Science","Texas Sports Academy","MS","1-2 years",-4
+"Science","Texas Sports Academy","MS","1 year or less",-1
