@@ -197,52 +197,6 @@
 
 ---
 
-## 🚀 Quick Start Guide
-
-!!! tip "Immediate Actions (Week 1-2)"
-    **Priority 1:** Conduct placement audits for all students with Growth X < 0 (negative growth)
-
-    **Priority 2:** Add MAP-aligned comprehension practice to all Reading courses
-
-    **Priority 3:** Flag and monitor 10 critical risk students needing emergency intervention
-
-!!! info "Short-Term Strategies (Week 3-6)"
-    - Implement weekly MAP-style passages with comprehension questions
-    - Introduce complex academic texts for advanced readers (RIT > 230)
-    - Pull Growth X data every 2 weeks and flag declining trajectories
-    - Track intervention effectiveness with leading indicators
-
-!!! abstract "Long-Term Solutions (Next Quarter)"
-    - Require HMG ≥ 9 for SAT Reading and 100 for 100 programs
-    - Launch foundational skills assessment for all students with RIT < 200
-    - Create advanced reading pathway with college-level texts
-    - Build "bridge programs" for students transitioning to SAT
-
----
-
-## 📈 Success Metrics
-
-| Metric | Current | 6-Week Target | 12-Week Target |
-|--------|---------|---------------|----------------|
-| % Meeting 2X Growth | 71.4% | 78% | 85% |
-| % Negative Growth | 13.9% | < 7% | < 3% |
-| % in HMG-Aligned Courses | ~55% | 75% | 90% |
-| Critical Risk Students | 10 | < 7 | < 4 |
-
----
-
-## 💡 What Makes This Analysis Different
-
-Traditional approaches diagnose symptoms ("student struggles with reading"). This analysis uses **pattern identification** to reveal root causes:
-
-- "Student in SAT but declining RIT" → Over-acceleration without foundation, needs reassignment
-- "Progress in 100 for 100 but flat MAP" → Curriculum-assessment misalignment, needs MAP practice
-- "Advanced reader plateauing" → Text complexity ceiling, needs college-level materials
-
-**Result:** Targeted interventions based on specific patterns, not generic reading support.
-
----
-
 **Analysis Framework:** Deep Dive Specification v1.0
 **Data Period:** Fall 2025 to Winter 2025
 **Last Updated:** 2025-26 Academic Year
