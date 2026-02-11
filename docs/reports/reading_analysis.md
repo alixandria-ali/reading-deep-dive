@@ -201,9 +201,7 @@ This analysis examines **423 student records** with Reading data to identify pat
 
 ---
 
-## 5. Recommendations for Action
-
-### Immediate Actions (Next 2 Weeks)
+## 5. Possible Action
 
 #### 1. Placement Audits for High-Risk Students
 **Target:** All students with Growth X < 0
@@ -213,9 +211,6 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Compare current course level to prerequisite mastery
 - Make placement adjustments (move to appropriate course or add support)
 - Schedule parent/student conferences to explain changes
-
-**Owner:** Campus instructional leaders
-**Timeline:** Complete by Week 2
 
 ---
 
@@ -228,9 +223,6 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Schedule both courses daily, not alternating
 - Monitor weekly progress on both tracks
 
-**Owner:** Course assignment team
-**Timeline:** Implement Week 2, review Week 6
-
 ---
 
 #### 3. Engagement Diagnostics for "Low Intensity" Cases
@@ -242,12 +234,7 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Interview students about perceived difficulty, interest, goals
 - Implement accountability structures (daily check-ins, weekly mastery goals)
 
-**Owner:** Campus staff + instructional coaches
-**Timeline:** Observations complete Week 2, interventions start Week 3
-
 ---
-
-### Short-Term Interventions (Next 4-6 Weeks)
 
 #### 4. Reading-MAP Alignment Review
 **Target:** All reading programs (100 for 100, SAT Reading, Core Knowledge)
@@ -257,9 +244,6 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Identify gaps between curriculum coverage and MAP sampling
 - Add targeted practice for underrepresented MAP domains
 - Pilot supplementary passages weekly that mirror MAP complexity
-
-**Owner:** Curriculum team + reading teachers
-**Timeline:** Analysis complete Week 4, pilot Week 5-6
 
 ---
 
@@ -272,12 +256,7 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Adjust course difficulty, pacing, or support immediately
 - Track intervention effectiveness with control group comparison
 
-**Owner:** Data team + campus leads
-**Timeline:** Start Week 3, ongoing
-
 ---
-
-### Long-Term Strategies (Next Quarter)
 
 #### 6. Develop "Mastery Milestones" Within Courses
 **Target:** All Reading courses
@@ -287,9 +266,6 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Require 85%+ mastery before advancing to next unit
 - Track time-to-milestone (identify students taking too long)
 - Prevent advancement without true mastery (not just completion)
-
-**Owner:** Curriculum design team
-**Timeline:** Design Q2, pilot Q3, full rollout Q4
 
 ---
 
@@ -302,9 +278,6 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Create reproducible playbook for other students
 - Pair struggling students with exemplar mentors
 
-**Owner:** Student success team
-**Timeline:** Interviews Q2, playbook Q3, mentorship Q4
-
 ---
 
 #### 8. Pilot "Adaptive Pacing" in Reading
@@ -316,47 +289,9 @@ This analysis examines **423 student records** with Reading data to identify pat
 - Track mastery depth vs. breadth trade-offs
 - Compare adaptive cohort to traditional pacing cohort
 
-**Owner:** Reading teachers + instructional coach
-**Timeline:** Pilot design Q2, launch Q3, evaluate Q4
-
 ---
 
-## 6. Monitoring & Success Metrics
-
-### Key Performance Indicators (KPIs)
-
-| Metric | Current Baseline | 6-Week Target | 12-Week Target |
-|--------|------------------|---------------|----------------|
-| % Students with Growth X greater than or equal to 2.0 | CALCULATE | 65% | 80% |
-| % Students with Negative Growth | ~10% (estimated) | < 5% | < 2% |
-| Avg Growth X (Reading) | CALCULATE | 4.5 | 6.5 |
-| % Students with HMG = Age Grade | CALCULATE | +15% | +30% |
-
-### Weekly Tracking Dashboard
-
-Implement dashboard showing:
-- Students with declining Growth X week-over-week
-- Students with flat Growth X (no change in 3+ weeks)
-- Students with engagement red flags (low session time, high error rates)
-- Intervention status for all flagged students
-
----
-
-## 7. Risk Mitigation
-
-### Potential Barriers to Implementation
-
-| Barrier | Mitigation Strategy |
-|---------|---------------------|
-| Resistance to course changes mid-year | Frame as "optimization" not "failure"; involve students in decision |
-| Staff capacity for individualized observation | Use peer observation model; rotating responsibility |
-| Data lag (waiting for MAP results) | Use in-course assessments weekly; don't wait for external tests |
-| Over-reliance on single metric (Growth X) | Balance with qualitative signals: engagement, mastery checkpoints |
-| Student/parent pushback on "de-leveling" | Show data; emphasize mastery over grade level; highlight success stories |
-
----
-
-## 8. Conclusion
+## 6. Conclusion
 
 The Reading cohort data reveals **clear, actionable patterns**:
 
