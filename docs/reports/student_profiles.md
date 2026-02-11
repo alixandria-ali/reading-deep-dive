@@ -24,7 +24,33 @@ Students are categorized into five risk levels based on their **Reading Growth X
 
 ## Complete Student Directory
 
-All 423 students with Reading data are listed below in a sortable table. Click column headers to sort by that field.
+<div style="margin-bottom: 1.5rem; display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
+  <div style="flex: 1; min-width: 250px;">
+    <input type="text" id="studentSearch" placeholder="🔍 Search by student name..." style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 8px; font-size: 1rem;">
+  </div>
+  <div style="min-width: 180px;">
+    <select id="riskFilter" style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 8px; font-size: 1rem;">
+      <option value="">All Risk Levels</option>
+      <option value="Critical Risk">Critical Risk</option>
+      <option value="High Risk">High Risk</option>
+      <option value="Moderate Risk">Moderate Risk</option>
+      <option value="Low Risk">Low Risk</option>
+      <option value="Exceeding">Exceeding</option>
+    </select>
+  </div>
+  <div style="min-width: 180px;">
+    <select id="hmgSort" style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 8px; font-size: 1rem;">
+      <option value="">Sort by HMG</option>
+      <option value="asc">HMG: Low to High</option>
+      <option value="desc">HMG: High to Low</option>
+    </select>
+  </div>
+  <div style="min-width: 120px;">
+    <button onclick="resetFilters()" style="width: 100%; padding: 0.75rem; background: #6c757d; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;">Reset</button>
+  </div>
+</div>
+
+<div id="resultCount" style="margin-bottom: 1rem; font-weight: 600; color: #008080;"></div>
 
 ---
 
@@ -42,16 +68,16 @@ th { background: linear-gradient(135deg, #0d1b2a 0%, #1a2332 100%); color: white
 <table id="studentTable">
   <thead>
     <tr>
-      <th onclick="sortTable(0)">Student</th>
-      <th onclick="sortTable(1)">Campus</th>
-      <th onclick="sortTable(2)">Level</th>
-      <th onclick="sortTable(3)">Growth X</th>
-      <th onclick="sortTable(4)">Risk Level</th>
-      <th onclick="sortTable(5)">HMG</th>
-      <th onclick="sortTable(6)">RIT Winter '25</th>
-      <th onclick="sortTable(7)">Course(s)</th>
-      <th onclick="sortTable(8)">Issues Identified</th>
-      <th onclick="sortTable(9)">Reading Inference</th>
+      <th>Student</th>
+      <th>Campus</th>
+      <th>Level</th>
+      <th>Growth X</th>
+      <th>Risk Level</th>
+      <th>HMG</th>
+      <th>RIT Winter '25</th>
+      <th>Course(s)</th>
+      <th>Issues Identified</th>
+      <th>Reading Inference</th>
     </tr>
   </thead>
   <tbody>
@@ -5135,53 +5161,63 @@ th { background: linear-gradient(135deg, #0d1b2a 0%, #1a2332 100%); color: white
 </table>
 
 <script>
-function sortTable(n) {
-  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("studentTable");
-  switching = true;
-  dir = "asc";
-  while (switching) {
-    switching = false;
-    rows = table.rows;
-    for (i = 1; i < (rows.length - 1); i++) {
-      shouldSwitch = false;
-      x = rows[i].getElementsByTagName("TD")[n];
-      y = rows[i + 1].getElementsByTagName("TD")[n];
-      var xContent = x.textContent || x.innerText;
-      var yContent = y.textContent || y.innerText;
+(function() {
+  const table = document.getElementById('studentTable');
+  const tbody = table.querySelector('tbody');
+  const allRows = Array.from(tbody.querySelectorAll('tr'));
 
-      // Try to parse as number for numeric columns
-      if (n === 3 || n === 5 || n === 6) {
-        var xNum = parseFloat(xContent);
-        var yNum = parseFloat(yContent);
-        if (!isNaN(xNum) && !isNaN(yNum)) {
-          xContent = xNum;
-          yContent = yNum;
-        }
-      }
+  function updateTable() {
+    const searchTerm = document.getElementById('studentSearch').value.toLowerCase();
+    const riskFilter = document.getElementById('riskFilter').value;
+    const hmgSort = document.getElementById('hmgSort').value;
 
-      if (dir == "asc") {
-        if (xContent > yContent) {
-          shouldSwitch = true;
-          break;
-        }
-      } else if (dir == "desc") {
-        if (xContent < yContent) {
-          shouldSwitch = true;
-          break;
-        }
-      }
+    // Filter rows
+    let filteredRows = allRows.filter(row => {
+      const studentName = row.cells[0].textContent.toLowerCase();
+      const riskLevel = row.cells[4].textContent;
+
+      const matchesSearch = studentName.includes(searchTerm);
+      const matchesRisk = !riskFilter || riskLevel === riskFilter;
+
+      return matchesSearch && matchesRisk;
+    });
+
+    // Sort by HMG if selected
+    if (hmgSort) {
+      filteredRows.sort((a, b) => {
+        const hmgA = a.cells[5].textContent;
+        const hmgB = b.cells[5].textContent;
+
+        // Handle "No data available"
+        const numA = hmgA === "No data available" ? -1 : parseFloat(hmgA);
+        const numB = hmgB === "No data available" ? -1 : parseFloat(hmgB);
+
+        return hmgSort === 'asc' ? numA - numB : numB - numA;
+      });
     }
-    if (shouldSwitch) {
-      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-      switching = true;
-      switchcount++;
-    } else {
-      if (switchcount == 0 && dir == "asc") {
-        dir = "desc";
-        switching = true;
-      }
-    }
+
+    // Clear and repopulate table
+    tbody.innerHTML = '';
+    filteredRows.forEach(row => tbody.appendChild(row));
+
+    // Update count
+    document.getElementById('resultCount').textContent =
+      `Showing ${filteredRows.length} of 423 students`;
   }
-}
+
+  window.resetFilters = function() {
+    document.getElementById('studentSearch').value = '';
+    document.getElementById('riskFilter').value = '';
+    document.getElementById('hmgSort').value = '';
+    updateTable();
+  };
+
+  // Event listeners
+  document.getElementById('studentSearch').addEventListener('input', updateTable);
+  document.getElementById('riskFilter').addEventListener('change', updateTable);
+  document.getElementById('hmgSort').addEventListener('change', updateTable);
+
+  // Initial count
+  updateTable();
+})();
 </script>
