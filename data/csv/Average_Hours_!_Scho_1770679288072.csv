@@ -1,0 +1,533 @@
+﻿"Student","Campus","Level","Avg Hours / School Day"
+"Hudson Bayer","Alpha High School","HS",0.07344444444444444
+"Jensen Langston","Alpha School Scottsdale","MS",0.07449999999999998
+"Charlie Booth","Alpha School San Francisco","L1",0.08483333333333329
+"Paula McCluskey","Alpha High School","HS",0.1638888888888889
+"Dallas Hesse","Alpha High School","HS",0.17750000000000002
+"Aniya Akhund","Alpha School San Francisco","MS",0.19427777777777777
+"Lucia Scaletta","Alpha High School","HS",0.32138888888888895
+"Ella Gremont","Alpha High School","HS",0.3273888888888889
+"Maxime Auvray","Alpha High School","HS",0.38505555555555565
+"Stella Cole","Alpha High School","HS",0.45411111111111147
+"Jaya Kachalia","Alpha High School","HS",0.5863333333333335
+"Edward Qu","Alpha School Brownsville","LL",0.6335000000000008
+"Saeed Tarawneh","Alpha High School","HS",0.6468333333333337
+"Nayel Bajwa","Alpha School Lake Forest","LL",0.6761666666666692
+"Geetesh Parelly","Alpha High School","HS",0.7282777777777792
+"Jacob Atamas","Alpha School Austin","MS",0.8305000000000019
+"Jackson Price","Alpha High School","HS",0.8981111111111124
+"Lincoln Thomas","Alpha High School","HS",0.9959444444444463
+"Liam Rahim","Montessorium Cedar Park","LL",1.0633888888888943
+"Elle Liemandt","Alpha High School","HS",1.120777777777779
+"Ella Dietz","Alpha High School","HS",1.3192777777777824
+"Grady Swanson","Alpha High School","HS",1.34150000000001
+"Maddie Price","Alpha High School","HS",1.3613888888888932
+"Kavin Lingham","Alpha High School","HS",1.3643888888888986
+"Allegra Mauro","Alpha School Austin","MS",1.4227777777777808
+"Cruce Saunders IV","Alpha High School","HS",1.5116666666666736
+"Eva Skinner","Montessorium Cedar Park","LL",1.5181666666666724
+"Austin Way","Alpha High School","HS",1.5754444444444606
+"Ju Orloff","Alpha School Miami","HS",1.648000000000001
+"Daphne Woods","Alpha School Austin","MS",1.7808333333333355
+"Sloka Vudumu","Alpha High School","HS",1.857500000000003
+"Reuben Runacres","Alpha High School","HS",1.8728888888888882
+"Stone Meyers","Texas Sports Academy","MS",1.9118333333333417
+"Jeremy Wang","Alpha High School","HS",1.9998333333333325
+"Emily Smith","Alpha High School","HS",2.2057777777777803
+"Otto Metzger","Texas Sports Academy","MS",2.239611111111103
+"Ali Romman","Alpha High School","HS",2.2478333333333325
+"Erika Rigby","Alpha High School","HS",2.2518333333333267
+"Bobby Simonds III","Alpha School Miami","MS",2.324499999999979
+"Carter Tinkler","Alpha School Scottsdale","L2",2.3663888888888662
+"Caleb Walker","Alpha High School","HS",2.5982222222222213
+"Naomi Kocek","Alpha School Austin","MS",2.605333333333328
+"Rhys Björendahl","Alpha School Austin","MS",2.6390555555555455
+"Hunter Taback","Alpha Anywhere Center","L2",2.779777777777759
+"Lucas Skinner","Montessorium Cedar Park","L1",2.8611111111110987
+"Michael Cai","Alpha High School","HS",2.8649999999999687
+"Sara Beth Way","Alpha High School","HS",2.8965555555555396
+"Jacob Kuchinsky","Alpha High School","HS",2.9212777777777466
+"Lulu Bressan","Alpha School Austin","MS",2.924999999999987
+"Paty Margain-Junco","Alpha High School","HS",2.9713333333333294
+"Connor Baker-Hassell","Alpha School Scottsdale","L2",2.974444444444438
+"Branson Pfiester","Alpha High School","HS",3.0116111111110535
+"Madeleine Grams","Alpha High School","HS",3.1023888888888775
+"Bobbi Brown","Alpha School Austin","MS",3.1893888888888706
+"Nico Choe","Alpha School Santa Barbara","MS",3.3834999999999744
+"Jason Dziuba","Alpha School Miami","MS",3.3888333333333036
+"Ty Kotkovskyi","Alpha School Miami","HS",3.417277777777765
+"Arjun Caberwal","Alpha School Austin","L2",3.4598333333332705
+"Jack Bromberg","Alpha School Austin","MS",3.489055555555543
+"Asher Hazard","Alpha School Miami","L2",3.6394444444444267
+"Zander Halili","Montessorium Cedar Park","L1",3.7238333333332783
+"Oliver McLeod","Alpha Anywhere Center","LL",3.795055555555522
+"Leah Abramovich","Alpha Anywhere Center","MS",3.8254444444444338
+"Livy Fay","Alpha School Scottsdale","LL",3.831055555555512
+"Blake Richheimer","Alpha Anywhere Center","L1",3.8464999999999656
+"Jake Grimes","Montessorium Cedar Park","LL",3.897055555555493
+"Cate Henry","Alpha Anywhere Center","L2",3.93666666666662
+"North Griswold","Texas Sports Academy","L1",3.98016666666665
+"Ryan Zawatieh","Nova Academy Bastrop","MS",3.9967777777777327
+"Jimmy Moore","Alpha School Austin","L1",4.013611111111079
+"Neko Lewis","Alpha School Austin","L2",4.018111111111059
+"Vera Li","Alpha High School","HS",4.023277777777766
+"Lucius Walker","Texas Sports Academy","L1",4.032888888888875
+"Vikram Singh","Montessorium Cedar Park","LL",4.040999999999904
+"Levi Reeves","Texas Sports Academy","L1",4.04288888888887
+"Aidan Wong","Alpha School San Francisco","HS",4.070777777777762
+"Grey Walker","Alpha High School","HS",4.09705555555554
+"Arianna Salazar","Nova Academy Bastrop","L2",4.139444444444347
+"Mason McDougald","Texas Sports Academy","MS",4.188055555555542
+"Tyson Karp","Alpha School Austin","MS",4.303555555555525
+"Cruz Keller","Alpha School Austin","MS",4.310666666666636
+"Penny Marty","Alpha School Miami","MS",4.321055555555532
+"Brandon Gonzales","Nova Academy Bastrop","L1",4.377111111111062
+"Jack Cotner","Alpha School Austin","MS",4.410111111111091
+"Rafaela Almanza","Alpha School Brownsville","LL",4.418166666666606
+"Clara Modlin","Montessorium Cedar Park","L1",4.428666666666645
+"Brecken Smith","Alpha School Scottsdale","MS",4.434944444444404
+"Jarius Collins","Nova Academy Austin","L2",4.451166666666656
+"Ryder Shilt","Texas Sports Academy","MS",4.4735555555555475
+"Reed Robertson","Alpha School Austin","L1",4.515388888888865
+"Athena Soni","Montessorium Cedar Park","LL",4.541277777777717
+"Eastwood Washburn","Texas Sports Academy","L2",4.547722222222168
+"Alex Lekic Brajovic","Texas Sports Academy","L2",4.552999999999978
+"Taliah Granados","Alpha School Austin","L2",4.616611111111065
+"James Finn Pulichino","Alpha School Miami","MS",4.633999999999974
+"Emma Correa","Alpha School Miami","MS",4.7502777777777405
+"Dario Poyatos Ramos","Alpha School Austin","MS",4.753499999999976
+"Ben Tierney","Alpha School San Francisco","MS",4.755888888888847
+"Edgar Shinar","Alpha School Austin","MS",4.777388888888863
+"Helio Ortiz","Alpha School Austin","L2",4.806222222222206
+"Claudia Rossello","Alpha School Chantilly","MS",4.809222222222203
+"Abigail Hunter","Alpha School Brownsville","L1",4.816944444444411
+"Dean Woods","Alpha School Austin","L2",4.847777777777734
+"Beau Stern","Alpha School Austin","L2",4.8507777777777195
+"Noah Cowher","Alpha School Austin","MS",4.873166666666643
+"Iker Negrete","Alpha School Austin","MS",4.883111111111061
+"Parker Pesek","Alpha School Austin","MS",4.889444444444404
+"Sam Ratcliff","Alpha School Austin","MS",4.912166666666586
+"Garrett Mullins","Nova Academy Bastrop","L2",4.936111111111097
+"Mimi Prospere","Alpha Anywhere Center","MS",4.95644444444439
+"James Gregory","Alpha School Austin","L1",4.993444444444425
+"Emilio Correa","Alpha School Miami","L2",4.994722222222217
+"Isa De La Riva","Alpha School Miami","L1",5.000055555555501
+"Elena Mentgen","Alpha School Austin","MS",5.00622222222214
+"Mebin Timilsina","Montessorium Cedar Park","L1",5.015611111111084
+"Max Jimenez","Alpha School Miami","L2",5.016888888888845
+"Roarke Radia","Alpha School Austin","MS",5.01916666666665
+"Jace Guilarte","Alpha School Miami","L1",5.0237777777777355
+"Ozzie Lowe","Alpha School Miami","MS",5.025499999999989
+"Stella Grams","Alpha High School","HS",5.025722222222194
+"Niam Choe","Alpha School Santa Barbara","L2",5.033999999999941
+"Armaan Kajani","Alpha School Austin","MS",5.039166666666658
+"Everett Mroczkowski","Nova Academy Bastrop","L1",5.046722222222189
+"Ben De Amorim","Alpha School Miami","MS",5.056499999999986
+"Julian Dziuba","Alpha School Miami","L1",5.0776111111110485
+"Nate Kelly","Alpha School Lake Forest","L2",5.077666666666603
+"Ben Rosenbloom","Alpha School Austin","L1",5.12805555555544
+"Odeya Shinar","Alpha School Austin","L1",5.211555555555509
+"Lola Propp","Alpha Anywhere Center","L1",5.218333333333296
+"David Nolan","Alpha School Austin","L2",5.2577777777777674
+"Scarlett Zarabi","Texas Sports Academy","MS",5.275944444444368
+"Diego Bash","Alpha School Austin","LL",5.281222222222112
+"Connor Cason","Alpha School Austin","L2",5.2868333333333055
+"Zayen Szpitalak","Alpha High School","HS",5.289999999999986
+"C.J. Wright","Alpha School Brownsville","L1",5.292277777777703
+"Mikyle Sattar","Alpha School Austin","MS",5.315833333333328
+"Nour Romman","Alpha School Austin","L1",5.347555555555531
+"Emilia Lobo","Alpha School Austin","L1",5.374111111111047
+"Brett Noel","Alpha School Austin","L1",5.3958333333333
+"Aileya Klinefelter","Alpha School Austin","MS",5.416388888888781
+"Luke Hock","Alpha School Austin","MS",5.4372222222222115
+"Garret Farnham","Alpha School Scottsdale","MS",5.4502777777777665
+"Greyson Robert Boyle","Alpha School Santa Barbara","MS",5.460944444444421
+"Angus Duncan","Alpha School Santa Barbara","MS",5.478055555555516
+"Kai Sticker","Alpha School Austin","MS",5.479111111111072
+"Bailey Carlson","Alpha School Austin","MS",5.480333333333326
+"Emil Welinder","Alpha School San Francisco","L1",5.49777777777774
+"Benny Valles","Alpha High School","HS",5.5084999999999615
+"Krish Bhakta","GT School","MS",5.519444444444373
+"Orion Campbell","Alpha School Brownsville","MS",5.521833333333322
+"Oscar Beard","Nova Academy Bastrop","MS",5.547777777777748
+"Lucian McDavid","Alpha Anywhere Center","L2",5.554833333333307
+"Alessia Kriete","Alpha School Miami","LL",5.5697777777777135
+"Vic Satijn","GT School","LL",5.574833333333258
+"Caleb Chang","Alpha School Lake Forest","LL",5.6014444444443745
+"Cristobal Delgado","Alpha School Brownsville","L2",5.605999999999964
+"Crinion Levin","Alpha School Scottsdale","MS",5.606333333333327
+"George Troxell","Alpha School Austin","L2",5.638333333333322
+"Evie Anderson","Alpha School Miami","L2",5.66138888888887
+"Sarah Alcaraz Rico","Alpha School Miami","L2",5.664277777777766
+"Mollie McDougald","Alpha High School","HS",5.676333333333315
+"Pax Ovitz","Alpha Anywhere Center","L2",5.703166666666648
+"Avra Tujios","Alpha School Austin","L1",5.715722222222144
+"Gus Haig","Alpha School Santa Barbara","L2",5.716333333333323
+"Blake Flores","Alpha School Austin","MS",5.721611111111066
+"Brady York","Alpha School Austin","L2",5.752388888888836
+"Aksel Jensen","Texas Sports Academy","MS",5.7587222222221985
+"Arjun Rana","Montessorium Cedar Park","MS",5.7712777777777635
+"Olivia Hirsch","Alpha School Austin","MS",5.779055555555538
+"Mateo Sanchez","Alpha School Miami","L2",5.783055555555519
+"Luisela Almanza","Alpha School Brownsville","LL",5.832833333333223
+"Atticus Gieskes","Nova Academy Bastrop","L2",5.8358333333332695
+"Luca Sanchez","Alpha School Miami","HS",5.870611111111102
+"Ethan Kim","GT School","LL",5.872277777777692
+"Amelia Gabler","Alpha School Brownsville","L1",5.872722222222195
+"Sammy Strems","Alpha School Miami","L2",5.888277777777762
+"Rivers Yong","Alpha School Austin","L1",5.894333333333308
+"Abi Constain","Alpha School Miami","MS",5.895944444444391
+"Lauren Harden","Texas Sports Academy","L1",5.89727777777773
+"Ren Sticker","Alpha School Austin","L1",5.91683333333329
+"Griffin Mendes","Montessorium Cedar Park","L2",5.94088888888884
+"Justin Rodriguez","Alpha School Miami","HS",5.944722222222216
+"Bandon Peterson","Alpha School Austin","LL",5.951166666666593
+"Tomas Gonzales","Alpha School Austin","L1",5.953111111111038
+"Wyatt Signor","Alpha School Austin","L2",5.954277777777744
+"Shailene Ferrebus","Nova Academy Austin","LL",5.964555555555533
+"Anthem Thomas","Alpha School Austin","LL",5.994611111111027
+"Emma Cotner","Alpha High School","HS",6.0266666666666495
+"Hayden Temcharoen","Alpha School Austin","L1",6.03261111111105
+"Kanhai Shah","Alpha School Austin","MS",6.035611111111055
+"Mallory Hobart","GT School","L1",6.062166666666647
+"Riva Stucchio","Montessorium Cedar Park","LL",6.065499999999985
+"Lucas Sanner","GT School","MS",6.082777777777739
+"Ellis Granados","Alpha School Austin","L1",6.112999999999877
+"McKayla Caldbeck","Alpha School San Francisco","L2",6.1211111111110466
+"Hyrule Petrelli","Alpha School Brownsville","L2",6.139444444444393
+"Aiden Richardson","Alpha School Austin","LL",6.141222222222165
+"Nadine Romman","Alpha School Austin","MS",6.147055555555516
+"Jaiden Bhakta","GT School","HS",6.156055555555471
+"Lawson Shilt","Texas Sports Academy","MS",6.157388888888864
+"Oliver Overton","Alpha School Austin","L2",6.173055555555537
+"Colm Bowen","Alpha Anywhere Center","LL",6.194666666666587
+"Kai Abromovitz","Alpha School Scottsdale","L2",6.2027777777777455
+"Zara La Pointe","Alpha School Austin","L2",6.22549999999997
+"Jenny Thomason","Texas Sports Academy","LL",6.227388888888867
+"Arman Caberwal","Alpha School Austin","L2",6.232611111111057
+"Ariel Martel","GT School","L2",6.233388888888858
+"Savannah Marrero","Alpha School Brownsville","MS",6.262333333333296
+"Grayson Hoffman","Alpha School Chantilly","L1",6.2825000000000095
+"Max Rzepecki","Alpha Anywhere Center","L1",6.285444444444364
+"Sander Gabler","Alpha School Brownsville","MS",6.290111111111072
+"Analea Lopez","Nova Academy Bastrop","L1",6.291999999999918
+"Donnie Moore","Alpha School Austin","L2",6.318111111111106
+"Zara Enayati","Montessorium Cedar Park","L1",6.321055555555495
+"Marshall Jensen","Texas Sports Academy","L2",6.328277777777742
+"Javier Martinez","Alpha School Miami","L1",6.341166666666623
+"Woody Wilcox","Alpha School Austin","LL",6.351944444444348
+"Julie Saint","Alpha School Miami","L2",6.352055555555541
+"Noah Noorani","Alpha School Miami","L2",6.3712222222222055
+"Raegan Middleton","Alpha School Brownsville","MS",6.381555555555534
+"Rania Caberwal","Alpha School Austin","MS",6.384111111111006
+"Aheli Shah","Alpha High School","HS",6.407055555555518
+"Maren Ackerson","Alpha School Austin","L1",6.4483888888888625
+"Joshua Mullins","Nova Academy Bastrop","L2",6.449444444444424
+"Tomi Fernandez","Alpha School Miami","MS",6.453888888888878
+"Liv Brodsky","Alpha Anywhere Center","L2",6.461333333333283
+"Vasili Giannopoulos","Alpha Anywhere Center","L1",6.465222222222198
+"Elijah Knecht","Alpha School Austin","LL",6.480333333333239
+"Hayden Pogue","Alpha School Plano","L1",6.480444444444364
+"Aoife Huey","Alpha High School","HS",6.493111111111095
+"Jamie Theunissen","Alpha School Austin","LL",6.494666666666591
+"Corinne McGowan","Texas Sports Academy","L1",6.498611111111044
+"Gavyn Martinez","Alpha School Miami","MS",6.504555555555497
+"Zane Thornton","Texas Sports Academy","MS",6.519111111111066
+"Kaiden Szpitalak","Alpha School Austin","MS",6.528777777777734
+"Austin Caldbeck","Alpha School San Francisco","L1",6.537499999999985
+"Brooklyn Allred","Alpha School Austin","L2",6.541777777777753
+"Duke Ajouz","Alpha School Austin","L2",6.553333333333254
+"Annabelle Lembo","Alpha Anywhere Center","L2",6.5533888888888425
+"Ananya Kakarlapudi","Alpha High School","HS",6.555555555555552
+"Alice Bateman","Montessorium Cedar Park","LL",6.589833333333305
+"Hayden Jones","Alpha School Austin","LL",6.602944444444303
+"Jude Hock","Alpha School Austin","MS",6.618555555555529
+"Riley Rosenberg","Alpha School Austin","LL",6.623388888888842
+"Kriya Santhoshkumar","Montessorium Cedar Park","L1",6.6268888888886845
+"Leo Montagna","Alpha School Miami","L1",6.6423888888888145
+"Elle Paul","Alpha School Austin","LL",6.6456111111110046
+"Gwendolyn Meegan","Alpha School Austin","MS",6.66077777777774
+"Catherine Caballero","Alpha School Miami","L1",6.666444444444343
+"Alita Sanborn","Alpha School Austin","LL",6.673833333333254
+"Jalayah Washington","Nova Academy Austin","MS",6.6924999999999155
+"Omar Ibarra","Texas Sports Academy","L2",6.724388888888787
+"Lily Gray","Alpha School Brownsville","MS",6.726111111111062
+"Blair Obrecht","Alpha School Fort Worth","L2",6.72649999999998
+"Orion Lira","Nova Academy Bastrop","L1",6.738111111111026
+"Evelyn Gabler","Alpha School Brownsville","MS",6.750111111111077
+"Nico Blanco","Alpha School Austin","LL",6.761499999999925
+"Ethan Stromfeld","GT School","L1",6.791611111111048
+"Hana Wong","Alpha School Lake Forest","L1",6.813499999999957
+"Ella Clark","Alpha School Austin","LL",6.816888888888755
+"Ginny Gray","Alpha School Brownsville","L2",6.83772222222216
+"Santiago Vasquez Lazo","Alpha School Miami","MS",6.8522222222222
+"Anya Ackerson","Alpha School Austin","L2",6.876555555555507
+"Rylan Joseph","Alpha School Austin","LL",6.882833333333226
+"Lydia Cobas","Alpha School Miami","MS",6.897555555555518
+"Rêve Stinson","Alpha School Lake Forest","L1",6.917888888888845
+"Savi Richardson","Alpha School Austin","LL",6.925444444444312
+"Eva Mentgen","Alpha School Austin","MS",6.934222222222138
+"Cooper Gregston","Texas Sports Academy","L1",6.9573888888886986
+"Alyan Slizza","Alpha School Austin","L2",6.969055555555537
+"Aleina Boyce","Alpha School Austin","L2",6.97511111111108
+"Wyatt Victore","GT School","L2",6.980388888888845
+"William Nolan","Alpha School Austin","L1",6.996722222222106
+"Ben Doherty","Alpha School Scottsdale","MS",7.000277777777626
+"Zion Clark","Alpha School Austin","L2",7.0082222222221855
+"Nico Mora","Alpha School Miami","MS",7.0190555555554734
+"Austin Lin","Alpha High School","HS",7.0487222222221675
+"Sebi Cobas","Alpha School Miami","MS",7.053888888888816
+"Raphael Shinar","Alpha School Austin","L1",7.071388888888862
+"Ellis Kyung","Alpha School Austin","LL",7.092555555555481
+"London Politi","Alpha Anywhere Center","L1",7.106999999999815
+"Phoenix Knight","Texas Sports Academy","L2",7.125722222222083
+"Ethan Wong","Alpha School San Francisco","MS",7.129277777777712
+"Rocco Benetti","Alpha School Austin","MS",7.153999999999931
+"Joan Olson","Nova Academy Bastrop","MS",7.163555555555481
+"Arden McCord","Alpha School Austin","LL",7.165611111111071
+"Leo Wright","Alpha School Brownsville","L1",7.1947222222221425
+"Leo Levy","Alpha School Austin","LL",7.205111111110959
+"Ethan Bale","Alpha School Brownsville","L1",7.211499999999896
+"Jonah Penna","Alpha School Santa Barbara","L2",7.219499999999923
+"Jiwoo Choi","Montessorium Cedar Park","LL",7.238499999999805
+"Ace Weir","Alpha School San Francisco","LL",7.255944444444322
+"Nathan Scharf","Alpha School Austin","MS",7.263888888888839
+"Johnny Darcy","Alpha School Brownsville","MS",7.264444444444356
+"Kira Fuerst","Alpha School Austin","L2",7.266944444444382
+"Aoife Moore","Alpha School Austin","MS",7.273166666666628
+"Adrienne Laswell","Alpha High School","HS",7.293611111111074
+"Clark Cho","Alpha School Palm Beach","LL",7.29688888888882
+"Sarah Hunter","Alpha School Brownsville","L2",7.312055555555442
+"Hadassah Atamas","Alpha School Austin","LL",7.312166666666501
+"Ferran Reddy","Alpha School Austin","LL",7.312333333333011
+"Kai Lever","Texas Sports Academy","MS",7.3369444444444385
+"Tommy Nolan","Alpha School Austin","LL",7.351166666666515
+"Eric Feltoon","Alpha School Austin","LL",7.351222222222144
+"Eva Joan Martinez","Alpha School Miami","LL",7.3608333333331615
+"Ronin Stanton","Alpha School Plano","LL",7.366777777777642
+"Elaina Robertson","Alpha School Austin","L2",7.379833333333285
+"Armin Rouwet","Alpha School Austin","MS",7.388111111111061
+"Pedro Rossello","Alpha School Chantilly","L1",7.405055555555412
+"Ari Faheem","Alpha School Lake Forest","L2",7.421222222222063
+"Marcus Fuentes","Alpha School Brownsville","MS",7.427833333333264
+"Ellen Meegan","Alpha School Austin","MS",7.428277777777734
+"Boris Dudarev","Alpha School Miami","HS",7.432666666666661
+"DaveyP Paul","Alpha School Austin","L2",7.434944444444321
+"Bella Barba","Alpha School Miami","MS",7.442999999999904
+"Oz Robertson","Alpha School Austin","LL",7.445499999999898
+"Teddy Dipaola","Alpha School Austin","LL",7.474999999999862
+"Smith Adreon","Texas Sports Academy","L2",7.499555555555351
+"Liam Teh","Alpha School Miami","L2",7.519222222222091
+"Luca Stroman","Alpha School Miami","L1",7.525833333333201
+"Emma Baklanova","Alpha School Lake Forest","L2",7.528888888888767
+"Jax Marroquin","Texas Sports Academy","LL",7.537222222222122
+"Leila Abony","Alpha School Austin","LL",7.539555555555481
+"Max Stone","Alpha School Plano","LL",7.568166666666538
+"Enzo Noorani","Alpha School Miami","L1",7.576777777777693
+"Enzo Estrada","Alpha School Miami","LL",7.594611111110967
+"Ruby Roark","Alpha School Scottsdale","L2",7.604444444444385
+"Octavia Gieskes","Nova Academy Bastrop","LL",7.641388888888737
+"Tate Price","Alpha School Austin","L2",7.661999999999968
+"Sol Felicevich","Alpha School Miami","MS",7.6696666666665605
+"James Chao-Breyer","Alpha School Austin","LL",7.6953333333331555
+"Des Pardi","Alpha School Austin","MS",7.695944444444407
+"Logan Campbell","Alpha School Brownsville","L2",7.703611111111059
+"Jessica Owenby","Alpha High School","HS",7.713944444444406
+"Elle Zak","Alpha School Miami","L2",7.744333333333271
+"Jack Tierney","Alpha School San Francisco","MS",7.75672222222217
+"Byron Attridge","Alpha School Austin","MS",7.762333333333293
+"Lukas Siers","Alpha School Austin","L2",7.771166666666612
+"Claudia Hobart","GT School","L2",7.775777777777721
+"Lisa Olson","Nova Academy Bastrop","L1",7.7787777777775275
+"Karthik Bala","Montessorium Cedar Park","LL",7.778944444444326
+"Jaya Vora","Alpha Anywhere Center","L2",7.79249999999981
+"Asaph Park","Alpha School Miami","LL",7.804555555555393
+"Parker Carlson","Alpha School Austin","MS",7.814611111111036
+"Eddie Margain-Junco","Alpha School Austin","MS",7.838611111111069
+"Dax Hummel","GT School","L2",7.859499999999926
+"Pablo Cortazar","Alpha School Miami","L1",7.880888888888684
+"Ramsey Levin","Alpha School Brownsville","L2",7.882777777777593
+"Thomas Page","Alpha School Miami","L1",7.882999999999816
+"Sophia Reicher","Alpha School Austin","L2",7.904999999999906
+"Reia Wong","Alpha School Austin","LL",7.911611111111005
+"Jace Joslyn","Nova Academy Bastrop","LL",7.918499999999791
+"Jason Montagna","Alpha School Miami","MS",7.962277777777658
+"Zeke Knight","Alpha School Austin","MS",8.000499999999942
+"Scott Baehr","Alpha School Austin","LL",8.003999999999827
+"Sai Shah","Alpha School Miami","LL",8.005555555555238
+"Graham Gattegno","Alpha School Lake Forest","L1",8.03405555555529
+"Ezra Allred","Alpha School Austin","L1",8.044611111110994
+"Amelia Barakat","Alpha School Miami","L1",8.049999999999807
+"Jacob Berman","Alpha School Austin","L1",8.055444444444344
+"Harper Lembo","Alpha Anywhere Center","LL",8.05999999999977
+"Mati Cortazar","Alpha School Miami","L2",8.068999999999834
+"Hildy Grimm","Alpha Anywhere Center","LL",8.086222222222123
+"Alisha Kajani","Alpha School Austin","L1",8.093055555555392
+"Saachi Sharma","Alpha School Austin","L1",8.101722222222081
+"David Sheldon","Alpha School Miami","MS",8.125833333333286
+"Hinano Tamura","Alpha School Miami","HS",8.156611111111006
+"Reed Emerton","Alpha School Fort Worth","LL",8.190611111110934
+"Aila Wong","Alpha School San Francisco","MS",8.202333333333275
+"Malaika Negrete","Alpha High School","HS",8.210833333333278
+"Johnny Grunow","Alpha School Palm Beach","L2",8.228999999999896
+"Conan Hogan","Alpha Anywhere Center","L1",8.237555555555316
+"Maya Gries-Yano","Alpha School San Francisco","L1",8.23972222222208
+"Ben Shaffer","Alpha School Scottsdale","L2",8.261833333333161
+"Mila Tinkler","Alpha School Scottsdale","L2",8.282499999999839
+"June Rockefeller","Alpha School San Francisco","MS",8.284555555555453
+"Lucy Wilkinson","Texas Sports Academy","LL",8.287555555555292
+"August Pease","GT School","L2",8.293111111110916
+"Ariella Sadowsky","Alpha School Plano","L2",8.310111111110794
+"Vivian Ajouz","Alpha School Austin","L1",8.331444444444337
+"Cami Fernandez","Alpha School Miami","MS",8.346666666666552
+"Jake Signor","Alpha School Austin","L1",8.347333333333193
+"Theo Jenkins","Alpha School Santa Barbara","MS",8.382222222222076
+"Ben Laserna","Alpha School Miami","L1",8.388555555555358
+"D'sean Harden II","Texas Sports Academy","L2",8.404999999999847
+"Betty Grunow","Alpha School Palm Beach","LL",8.41683333333322
+"Ella McMurry","Alpha School Austin","MS",8.430833333333291
+"Hayes Burman","Alpha School Austin","L1",8.458444444444288
+"Tallulah Chaney","Texas Sports Academy","LL",8.53177777777752
+"Gus Castillo","Alpha High School","HS",8.536555555555541
+"Zoe Bodnick","Alpha School Miami","HS",8.53938888888884
+"Wayne Zou","GT School","L2",8.567222222222131
+"Jack Delbridge","Texas Sports Academy","LL",8.582833333333253
+"Giulia Scandella","Alpha School Miami","L2",8.625944444444205
+"Lincoln Criss","Nova Academy Bastrop","L1",8.632333333333175
+"Mila Atamas","Alpha School Austin","MS",8.646388888888874
+"Ava Ackerson","Alpha School Austin","L2",8.655611111111046
+"Kai Tilzer","Alpha School Scottsdale","LL",8.665666666666269
+"Katherine Du","Alpha School Austin","L2",8.669444444444313
+"Vayda Hendle","Alpha School Austin","MS",8.673888888888794
+"JT Kambic","Texas Sports Academy","LL",8.67661111111089
+"Nora Rosenthal","Alpha School Austin","LL",8.686333333333206
+"Riana Parikh","GT School","L1",8.687055555555474
+"Evanna McDaniel","Alpha School Fort Worth","LL",8.713388888888616
+"Penelope Carrington","Alpha Anywhere Center","MS",8.713888888888814
+"Theodore Salgado-Singer","Alpha School Brownsville","L1",8.732388888888803
+"Jay Lever","Texas Sports Academy","L2",8.816944444444227
+"Sarah Schipper","Alpha School Brownsville","L1",8.864611111110984
+"Van McDavid","Alpha Anywhere Center","L1",8.867499999999774
+"Milam Morgan","Waypoint Academy","L1",8.881555555555432
+"Rhys Robertson","Alpha School Santa Barbara","MS",8.914111111111001
+"Maya Prokupets","Montessorium Cedar Park","LL",8.934888888888539
+"Jacob Vandercook","Alpha School Fort Worth","MS",8.962999999999905
+"Teddy Obrecht","Alpha School Fort Worth","LL",8.994999999999834
+"Emma Slifka","Alpha Anywhere Center","MS",9.010277777777569
+"Cora Ishaq","Alpha School Lake Forest","L1",9.012611111110678
+"Elliott Rudnicki","Alpha School Scottsdale","LL",9.013499999999677
+"Fiona Krajicek","Texas Sports Academy","LL",9.014999999999805
+"Love Lalla-Pagan","Alpha School Austin","MS",9.026444444444378
+"Eric Kenez","GT School","L1",9.049999999999912
+"Nash Niccolls","Alpha School Miami","LL",9.061611111110844
+"Elijah Hunter","Alpha School Brownsville","LL",9.096777777777584
+"Magnus Liodden","Alpha School Miami","L1",9.123222222222031
+"Isaac David","Alpha School Palm Beach","LL",9.126722222221897
+"Noah Hastings","Alpha School Scottsdale","L2",9.12744444444435
+"Griffin Wittenborn","Alpha School Chantilly","L1",9.132555555555442
+"Brooks Knight","Alpha School Scottsdale","L1",9.133944444444314
+"Sofia Stone","Alpha School Plano","L1",9.145388888888679
+"Jojo Stinson","Alpha School Lake Forest","LL",9.146777777777432
+"Keaton Beck","Alpha School Fort Worth","L1",9.159388888888614
+"Elias Kellemen","Alpha School Miami","MS",9.16933333333321
+"Willa Rubenstein","Alpha School Austin","L1",9.192833333333251
+"Mira Kambic","Texas Sports Academy","L2",9.200777777777612
+"Brooke Tracy","Alpha School Austin","L2",9.210666666666583
+"Sofia Page","Alpha School Miami","MS",9.219611111110623
+"Seby Holzhauer","Alpha School Brownsville","LL",9.235777777777567
+"Luna Montagna","Alpha School Miami","L2",9.23849999999982
+"Blake Price","Alpha School Austin","L1",9.2867222222221
+"Emma Murphy","Alpha School Fort Worth","MS",9.290722222222097
+"Eva Lenington","Alpha School Austin","L1",9.306888888888755
+"Hope Grunow","Alpha School Palm Beach","L1",9.32372222222211
+"Lilly Orloff","Alpha School Miami","L2",9.366833333333089
+"Arden Kaplan","Alpha School San Francisco","LL",9.373777777777498
+"Shepperd Pfiester","Alpha School Austin","MS",9.408833333333273
+"Annalise Faheem","Alpha School Lake Forest","L1",9.424611111110766
+"Aira Anirudha","Alpha School Austin","L1",9.495166666666561
+"Lavender Marrero","Alpha School Brownsville","MS",9.538888888888753
+"Gardner Edwards","GT School","MS",9.542611111110967
+"London Plascencia","Alpha School Fort Worth","LL",9.596055555555296
+"Charlotte Pogue","Alpha School Plano","LL",9.604777777777505
+"Finley Smith","Alpha School San Francisco","MS",9.612555555555442
+"Jeronimo Cardenas Garcia","Alpha School Miami","LL",9.687222222222005
+"Jaxon Siers","Alpha School Austin","L2",9.766166666666525
+"Max Brodsky","Alpha Anywhere Center","MS",9.822444444444248
+"Jesse Crain, Jr","Alpha School San Francisco","LL",9.868222222221858
+"Nova Victore","GT School","L1",9.912611111110968
+"Leo Clark","Alpha School San Francisco","LL",9.913055555555163
+"Donny Warm","Alpha School Santa Barbara","MS",9.92411111111076
+"Zenon Zaidi","Texas Sports Academy","L2",9.933499999999896
+"Antonio Gutierrez","Alpha School Miami","L2",9.933722222222062
+"Olivia Wojtowicz","Alpha School Lake Forest","L1",9.967499999999506
+"Adriana D'Anieri","Alpha School Palm Beach","L1",9.972666666666559
+"GlenEric Ostrander","Alpha Anywhere Center","MS",9.985999999999889
+"Cruz Munoz","Alpha School Scottsdale","L1",10.02333333333312
+"Ada Cone","Alpha Anywhere Center","L1",10.051444444444297
+"Zoey Peden","Alpha School Brownsville","L1",10.124555555555443
+"Gia Clark","Alpha School Austin","L1",10.135944444444302
+"Lila Dawson","Alpha School Austin","LL",10.15094444444427
+"Justin Wooley Jr.","Nova Academy Austin","L1",10.227888888888382
+"Novah Pitre","GT School","LL",10.290722222222039
+"Vigo Levin","Alpha School Brownsville","LL",10.336055555555367
+"Daniel Calvo","Alpha School Miami","LL",10.374166666666131
+"Cameron White","Alpha School Scottsdale","L2",10.380055555555405
+"Lilah Roark","Alpha School Scottsdale","L2",10.458388888888706
+"Emery Cox","Alpha School Brownsville","L1",10.587944444444332
+"Zane Rogers","Texas Sports Academy","L2",10.646777777777384
+"Joseph Ahanobi-Ikekwere, Jr","GT School","L1",10.727166666666458
+"Gray Marcinek","Alpha School Scottsdale","LL",10.737388888888578
+"Aster Burns","Alpha School Brownsville","L1",10.738333333333093
+"Andie Childress","Texas Sports Academy","MS",10.82733333333304
+"Cameron Caldbeck","Alpha School San Francisco","LL",10.853722222221897
+"Harper Hawkins","Alpha School Austin","L2",10.936611111111
+"Zarielle Vela","Alpha School Brownsville","L2",10.96444444444421
+"Victoria Marin Barrios","Nova Academy Austin","L1",10.993222222221817
+"Austin Wong","Alpha School San Francisco","L1",11.037611111110898
+"Allison Kim","Texas Sports Academy","L1",11.080499999999638
+"Emori McDaniel","Alpha School Fort Worth","L2",11.141611111110914
+"Meka Hossaini-Joudrey","Alpha School Brownsville","LL",11.148222222221843
+"Anaya Lenington","Alpha School Austin","L2",11.159444444444325
+"Alana Marin Barrios","Nova Academy Austin","LL",11.165055555555309
+"Artemis Schiettecatte","Alpha High School","HS",11.20616666666663
+"Sydney Barba","Alpha School Miami","HS",11.21116666666661
+"Lucy Peden","Alpha School Brownsville","LL",11.215111111110634
+"Ian Mentgen","Alpha School Austin","L2",11.310666666666405
+"Sage Tilzer","Alpha School Scottsdale","LL",11.325444444444056
+"Griffin Farnham","Alpha School Scottsdale","L1",11.424055555555125
+"Wells Lindsley","Alpha School Scottsdale","L1",11.589888888888627
+"Estella Estrada","Alpha School Miami","HS",11.598222222222066
+"Liam Lenhardt","Alpha High School","HS",11.653333333333276
+"Milan Marcinek","Alpha School Scottsdale","MS",11.69166666666656
+"Izzy Vicente","Alpha School Miami","HS",11.777111111111045
+"Reece Knight","Alpha High School","HS",11.820833333333239
+"Maya Muthuswamy","Alpha School Brownsville","LL",11.95433333333295
+"Jameson Walsh","Alpha School Scottsdale","L1",12.02911111111074
+"Neel Balija","GT School","LL",12.046499999999448
+"Raika Ackman","Alpha Anywhere Center","L1",12.076611111110916
+"Ethan Dailey","Alpha School Scottsdale","LL",12.154611111110842
+"Kamila Gonzalez-Romero","Nova Academy Austin","L1",12.312777777777393
+"Emma Schipper","Alpha School Brownsville","LL",12.488777777777468
+"Faustina Ngambo-Kialengele","Nova Academy Austin","L1",12.519888888888538
+"Aidan Chase","Alpha School Santa Barbara","MS",12.741055555553631
+"Lex DeMaree","Alpha School Scottsdale","L2",12.751333333332825
+"Eli Slifka","Alpha Anywhere Center","MS",12.754777777777417
+"Scarlett Meyer","Alpha School Scottsdale","L1",12.80799999999951
+"Victoria Leal","Alpha School Brownsville","LL",12.9688888888885
+"Calvin Barraza","GT School","L1",12.989888888888691
+"Liam Moore","Alpha School Santa Barbara","HS",13.019277777777717
+"Rocket Roark","Alpha School Scottsdale","LL",13.088833333333113
+"Axl Meyer","Alpha School Scottsdale","L2",13.246944444444225
+"Bash Salazar","Alpha School Brownsville","L1",13.358666666666315
+"Gael Gonzalez-Romero","Nova Academy Austin","LL",13.41377777777726
+"Ross Margraves","Alpha High School","HS",13.45127777777768
+"Gigi Gurrola","Alpha School Brownsville","LL",13.747111111110783
+"Angel Gonzalez-Romero","Nova Academy Austin","L2",13.899222222221983
+"Mya Hadnot","Nova Academy Austin","L1",13.900777777777472
+"Valentina Melendez","Alpha School Austin","MS",13.903277777777692
+"Leoxinelys Campos-Ferrebus","Nova Academy Austin","MS",14.15927777777749
+"Anthonella Ochoa","Nova Academy Austin","L1",14.176444444444067
+"Eden Meave","Alpha School Scottsdale","L2",16.058277777777626
+"Megan Chukwura","Nova Academy Austin","L1",16.308388888888448
+"A'Leiah Jenkins","Nova Academy Austin","L1",16.400888888888122
+"Griffin Smith","Alpha School Scottsdale","L2",19.323777777777586

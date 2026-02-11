@@ -1,0 +1,302 @@
+﻿"subject","campus[Alpha Roster for Cross Joins]","alphalevelshort","Knowledge Grade vs. Age Grade"
+"Language","Alpha Anywhere Center","L1",0.7777
+"Language","Alpha Anywhere Center","L2",0.1428
+"Language","Alpha Anywhere Center","LL",1
+"Language","Alpha Anywhere Center","MS",-0.8571
+"Language","Alpha High School","HS",-0.9354
+"Language","Alpha School Austin","L1",0.6896
+"Language","Alpha School Austin","L2",1.0588
+"Language","Alpha School Austin","LL",0.8275
+"Language","Alpha School Austin","MS",-0.1568
+"Language","Alpha School Austin","WL",1
+"Language","Alpha School Brownsville","L1",0.9166
+"Language","Alpha School Brownsville","L2",0.8571
+"Language","Alpha School Brownsville","LL",1
+"Language","Alpha School Brownsville","MS",0
+"Language","Alpha School Brownsville","WL",2
+"Language","Alpha School Chantilly","L1",0.3333
+"Language","Alpha School Chantilly","MS",-2
+"Language","Alpha School Fort Worth","L1",0
+"Language","Alpha School Fort Worth","L2",0.5
+"Language","Alpha School Fort Worth","LL",0.75
+"Language","Alpha School Fort Worth","MS",0
+"Language","Alpha School Lake Forest","L1",0.1666
+"Language","Alpha School Lake Forest","L2",-1
+"Language","Alpha School Lake Forest","LL",-0.6666
+"Language","Alpha School Miami","HS",-0.3333
+"Language","Alpha School Miami","L1",0.1538
+"Language","Alpha School Miami","L2",-0.3125
+"Language","Alpha School Miami","LL",0.25
+"Language","Alpha School Miami","MS",-0.7619
+"Language","Alpha School Palm Beach","L1",1.5
+"Language","Alpha School Palm Beach","L2",0
+"Language","Alpha School Palm Beach","LL",1.6666
+"Language","Alpha School Plano","L1",-0.5
+"Language","Alpha School Plano","L2",-2
+"Language","Alpha School Plano","LL",0.6666
+"Language","Alpha School Plano","WL",1
+"Language","Alpha School San Francisco","HS",-2
+"Language","Alpha School San Francisco","L1",0.2
+"Language","Alpha School San Francisco","L2",2
+"Language","Alpha School San Francisco","LL",0.8
+"Language","Alpha School San Francisco","MS",-2.1428
+"Language","Alpha School Santa Barbara","HS",-3
+"Language","Alpha School Santa Barbara","L2",0
+"Language","Alpha School Santa Barbara","MS",-1.2857
+"Language","Alpha School Scottsdale","L1",0
+"Language","Alpha School Scottsdale","L2",-0.6923
+"Language","Alpha School Scottsdale","LL",0.2857
+"Language","Alpha School Scottsdale","MS",-1
+"Language","GT School","HS",4
+"Language","GT School","L1",1.2857
+"Language","GT School","L2",1.3333
+"Language","GT School","LL",1.5
+"Language","GT School","MS",1
+"Language","Montessorium Cedar Park","L1",0.1666
+"Language","Montessorium Cedar Park","L2",-1
+"Language","Montessorium Cedar Park","LL",0.6666
+"Language","Montessorium Cedar Park","MS",-3
+"Language","NextGen Academy","L1",-0.3333
+"Language","NextGen Academy","L2",-0.4
+"Language","NextGen Academy","MS",-0.5
+"Language","Nova Academy Austin","L1",-0.75
+"Language","Nova Academy Austin","L2",-1.5
+"Language","Nova Academy Austin","LL",0
+"Language","Nova Academy Austin","MS",-3
+"Language","Nova Academy Bastrop","L1",0.5
+"Language","Nova Academy Bastrop","L2",-0.75
+"Language","Nova Academy Bastrop","LL",1.5
+"Language","Nova Academy Bastrop","MS",-1.6666
+"Language","Texas Sports Academy","L1",0.8571
+"Language","Texas Sports Academy","L2",-0.4545
+"Language","Texas Sports Academy","LL",0.7142
+"Language","Texas Sports Academy","MS",-1.4
+"Math","Alpha Anywhere Center","L1",1
+"Math","Alpha Anywhere Center","L2",0.2857
+"Math","Alpha Anywhere Center","LL",0.75
+"Math","Alpha Anywhere Center","MS",-1.5714
+"Math","Alpha High School","HS",-0.9268
+"Math","Alpha School Austin","L1",0.8
+"Math","Alpha School Austin","L2",0.2647
+"Math","Alpha School Austin","LL",0.9354
+"Math","Alpha School Austin","MS",-0.5686
+"Math","Alpha School Austin","WL",1
+"Math","Alpha School Brownsville","L1",0.8461
+"Math","Alpha School Brownsville","L2",-0.4285
+"Math","Alpha School Brownsville","LL",1.3333
+"Math","Alpha School Brownsville","MS",-1.2222
+"Math","Alpha School Brownsville","WL",1.3333
+"Math","Alpha School Chantilly","L1",0.6666
+"Math","Alpha School Chantilly","MS",-2
+"Math","Alpha School Fort Worth","L1",1
+"Math","Alpha School Fort Worth","L2",0
+"Math","Alpha School Fort Worth","LL",1
+"Math","Alpha School Fort Worth","MS",-3
+"Math","Alpha School Lake Forest","L1",-0.3333
+"Math","Alpha School Lake Forest","L2",-1.3333
+"Math","Alpha School Lake Forest","LL",1
+"Math","Alpha School Miami","HS",-0.6666
+"Math","Alpha School Miami","L1",0
+"Math","Alpha School Miami","L2",-0.5
+"Math","Alpha School Miami","LL",1
+"Math","Alpha School Miami","MS",-1.4285
+"Math","Alpha School Palm Beach","L1",0.5
+"Math","Alpha School Palm Beach","L2",-1
+"Math","Alpha School Palm Beach","LL",1.3333
+"Math","Alpha School Plano","L1",-0.5
+"Math","Alpha School Plano","L2",-2
+"Math","Alpha School Plano","LL",0.3333
+"Math","Alpha School Plano","WL",1
+"Math","Alpha School San Francisco","HS",-1
+"Math","Alpha School San Francisco","L1",0.2
+"Math","Alpha School San Francisco","L2",1
+"Math","Alpha School San Francisco","LL",1.6
+"Math","Alpha School San Francisco","MS",-1.8571
+"Math","Alpha School Santa Barbara","HS",-3
+"Math","Alpha School Santa Barbara","L2",-0.6666
+"Math","Alpha School Santa Barbara","MS",-1.4285
+"Math","Alpha School Scottsdale","L1",0.3333
+"Math","Alpha School Scottsdale","L2",-1.0769
+"Math","Alpha School Scottsdale","LL",0.7142
+"Math","Alpha School Scottsdale","MS",-3.3333
+"Math","GT School","HS",1
+"Math","GT School","L1",1.2857
+"Math","GT School","L2",1.8333
+"Math","GT School","LL",1.75
+"Math","GT School","MS",0.6666
+"Math","Montessorium Cedar Park","L1",-0.3333
+"Math","Montessorium Cedar Park","L2",1
+"Math","Montessorium Cedar Park","LL",0.8
+"Math","Montessorium Cedar Park","MS",-2
+"Math","NextGen Academy","L1",0
+"Math","NextGen Academy","L2",-1.2
+"Math","NextGen Academy","MS",-1.5
+"Math","Nova Academy Austin","L1",-0.6363
+"Math","Nova Academy Austin","L2",-1.5
+"Math","Nova Academy Austin","LL",0.6666
+"Math","Nova Academy Austin","MS",-3
+"Math","Nova Academy Bastrop","L1",-0.1666
+"Math","Nova Academy Bastrop","L2",-1.25
+"Math","Nova Academy Bastrop","LL",1
+"Math","Nova Academy Bastrop","MS",-0.6666
+"Math","Texas Sports Academy","L1",1.1428
+"Math","Texas Sports Academy","L2",-1
+"Math","Texas Sports Academy","LL",1.2857
+"Math","Texas Sports Academy","MS",-1.5
+"Reading","Alpha Anywhere Center","L1",1
+"Reading","Alpha Anywhere Center","L2",0.2857
+"Reading","Alpha Anywhere Center","LL",1
+"Reading","Alpha Anywhere Center","MS",-1.8333
+"Reading","Alpha High School","HS",0.7222
+"Reading","Alpha School Austin","L1",0.6333
+"Reading","Alpha School Austin","L2",0.7647
+"Reading","Alpha School Austin","LL",1.0869
+"Reading","Alpha School Austin","MS",0.5714
+"Reading","Alpha School Austin","WL",1
+"Reading","Alpha School Brownsville","L1",0.3076
+"Reading","Alpha School Brownsville","L2",0.7142
+"Reading","Alpha School Brownsville","LL",1.4166
+"Reading","Alpha School Brownsville","MS",1.1111
+"Reading","Alpha School Brownsville","WL",2
+"Reading","Alpha School Chantilly","L1",0.3333
+"Reading","Alpha School Chantilly","MS",-3
+"Reading","Alpha School Fort Worth","L1",1
+"Reading","Alpha School Fort Worth","L2",1.5
+"Reading","Alpha School Fort Worth","LL",2
+"Reading","Alpha School Fort Worth","MS",0.5
+"Reading","Alpha School Lake Forest","L1",0.4
+"Reading","Alpha School Lake Forest","L2",-1.3333
+"Reading","Alpha School Lake Forest","LL",0.5
+"Reading","Alpha School Miami","HS",1.2222
+"Reading","Alpha School Miami","L1",0.5384
+"Reading","Alpha School Miami","L2",-0.625
+"Reading","Alpha School Miami","LL",0.6666
+"Reading","Alpha School Miami","MS",-0.5909
+"Reading","Alpha School Palm Beach","L1",0.5
+"Reading","Alpha School Palm Beach","L2",-1
+"Reading","Alpha School Palm Beach","LL",1.5
+"Reading","Alpha School Plano","L1",-0.5
+"Reading","Alpha School Plano","L2",-2
+"Reading","Alpha School Plano","LL",0.6666
+"Reading","Alpha School San Francisco","L1",0.5
+"Reading","Alpha School San Francisco","L2",1
+"Reading","Alpha School San Francisco","LL",1.5
+"Reading","Alpha School San Francisco","MS",0.2857
+"Reading","Alpha School Santa Barbara","HS",-1
+"Reading","Alpha School Santa Barbara","L2",0
+"Reading","Alpha School Santa Barbara","MS",-0.8571
+"Reading","Alpha School Scottsdale","L1",0
+"Reading","Alpha School Scottsdale","L2",-0.923
+"Reading","Alpha School Scottsdale","LL",0.3333
+"Reading","Alpha School Scottsdale","MS",-1.1666
+"Reading","GT School","L1",1
+"Reading","GT School","L2",2.5
+"Reading","GT School","LL",1.5
+"Reading","GT School","MS",2.6666
+"Reading","Montessorium Cedar Park","L1",0
+"Reading","Montessorium Cedar Park","L2",0
+"Reading","Montessorium Cedar Park","LL",1.125
+"Reading","Montessorium Cedar Park","MS",-3
+"Reading","NextGen Academy","L1",1
+"Reading","NextGen Academy","L2",-0.4
+"Reading","NextGen Academy","MS",2.5
+"Reading","Nova Academy Austin","L1",-1.4545
+"Reading","Nova Academy Austin","L2",-1.5
+"Reading","Nova Academy Austin","LL",0.3333
+"Reading","Nova Academy Austin","MS",-2.5
+"Reading","Nova Academy Bastrop","L1",0.5
+"Reading","Nova Academy Bastrop","L2",-1
+"Reading","Nova Academy Bastrop","LL",2
+"Reading","Nova Academy Bastrop","MS",0.3333
+"Reading","Texas Sports Academy","L1",-0.1428
+"Reading","Texas Sports Academy","L2",-0.6363
+"Reading","Texas Sports Academy","LL",1
+"Reading","Texas Sports Academy","MS",-0.2222
+"Science","Alpha Anywhere Center","L1",0.5
+"Science","Alpha Anywhere Center","L2",0.2
+"Science","Alpha Anywhere Center","MS",-2.7142
+"Science","Alpha High School","HS",-0.9444
+"Science","Alpha School Austin","L1",0.6666
+"Science","Alpha School Austin","L2",0.3125
+"Science","Alpha School Austin","MS",-0.5208
+"Science","Alpha School Brownsville","L1",0.75
+"Science","Alpha School Brownsville","L2",-0.4285
+"Science","Alpha School Brownsville","MS",-0.4444
+"Science","Alpha School Chantilly","L1",0
+"Science","Alpha School Chantilly","MS",-3
+"Science","Alpha School Fort Worth","L2",-1
+"Science","Alpha School Fort Worth","MS",-1
+"Science","Alpha School Lake Forest","L1",0
+"Science","Alpha School Lake Forest","L2",-1
+"Science","Alpha School Miami","HS",-1.8571
+"Science","Alpha School Miami","L1",0.75
+"Science","Alpha School Miami","L2",-1.2666
+"Science","Alpha School Miami","MS",-2.2
+"Science","Alpha School Palm Beach","L2",-1
+"Science","Alpha School San Francisco","HS",-2
+"Science","Alpha School San Francisco","L1",0.6666
+"Science","Alpha School San Francisco","L2",-1
+"Science","Alpha School San Francisco","MS",-2.5714
+"Science","Alpha School Santa Barbara","HS",-3
+"Science","Alpha School Santa Barbara","MS",-2
+"Science","Alpha School Scottsdale","L1",0
+"Science","Alpha School Scottsdale","L2",-0.75
+"Science","Alpha School Scottsdale","MS",-2
+"Science","GT School","HS",1
+"Science","GT School","L1",1
+"Science","GT School","L2",1.3333
+"Science","GT School","MS",0.3333
+"Science","Montessorium Cedar Park","L1",1
+"Science","Montessorium Cedar Park","L2",0
+"Science","Montessorium Cedar Park","MS",-2
+"Science","NextGen Academy","L1",1
+"Science","NextGen Academy","L2",-0.3333
+"Science","NextGen Academy","MS",-2
+"Science","Nova Academy Bastrop","L1",1
+"Science","Nova Academy Bastrop","L2",0
+"Science","Nova Academy Bastrop","MS",-0.3333
+"Science","Texas Sports Academy","L1",1
+"Science","Texas Sports Academy","L2",-0.375
+"Science","Texas Sports Academy","MS",-1.3333
+"Writing","Alpha Anywhere Center","L1",0.6666
+"Writing","Alpha Anywhere Center","L2",-0.4
+"Writing","Alpha Anywhere Center","MS",-3
+"Writing","Alpha High School","HS",-2.4615
+"Writing","Alpha School Austin","L1",0.4
+"Writing","Alpha School Austin","L2",-0.9687
+"Writing","Alpha School Austin","MS",-2.1875
+"Writing","Alpha School Brownsville","L1",0.5
+"Writing","Alpha School Brownsville","L2",-0.8333
+"Writing","Alpha School Brownsville","MS",-3
+"Writing","Alpha School Chantilly","MS",-3
+"Writing","Alpha School Fort Worth","L2",-1
+"Writing","Alpha School Fort Worth","MS",-1
+"Writing","Alpha School Lake Forest","L1",0
+"Writing","Alpha School Lake Forest","L2",-1
+"Writing","Alpha School Miami","HS",-1.3333
+"Writing","Alpha School Miami","L2",-1.2222
+"Writing","Alpha School Miami","MS",-2.7142
+"Writing","Alpha School Palm Beach","L1",0.5
+"Writing","Alpha School Palm Beach","L2",-1
+"Writing","Alpha School Palm Beach","LL",2
+"Writing","Alpha School San Francisco","L1",0
+"Writing","Alpha School San Francisco","L2",2
+"Writing","Alpha School San Francisco","MS",-3.2
+"Writing","Alpha School Santa Barbara","HS",-2
+"Writing","Alpha School Santa Barbara","L2",-1
+"Writing","Alpha School Santa Barbara","MS",-3
+"Writing","Alpha School Scottsdale","L1",0
+"Writing","Alpha School Scottsdale","L2",-1.25
+"Writing","Alpha School Scottsdale","MS",-1.6666
+"Writing","GT School","L1",0.5
+"Writing","GT School","L2",0.4
+"Writing","GT School","MS",-3
+"Writing","Montessorium Cedar Park","L1",0
+"Writing","NextGen Academy","L2",-0.6666
+"Writing","NextGen Academy","MS",-2
+"Writing","Nova Academy Bastrop","L1",0
+"Writing","Nova Academy Bastrop","L2",-2
+"Writing","Nova Academy Bastrop","MS",-2.5
+"Writing","Texas Sports Academy","L1",0.5
+"Writing","Texas Sports Academy","L2",-1
+"Writing","Texas Sports Academy","MS",-1.6

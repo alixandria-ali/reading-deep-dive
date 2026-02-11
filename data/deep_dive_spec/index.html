@@ -1,0 +1,1143 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Comprehensive reading student analysis and intervention planning">
+      
+      
+        <meta name="author" content="Deep Dive Analysis Team">
+      
+      
+        <link rel="canonical" href="https://alixandria-ali.github.io/reading-deep-dive/data/deep_dive_spec/">
+      
+      
+        <link rel="prev" href="../">
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Specification - Reading Deep Dive Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="cyan">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#deep-dive-output-specification-v10" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Reading Deep Dive Documentation" class="md-header__button md-logo" aria-label="Reading Deep Dive Documentation" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Reading Deep Dive Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Specification
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="cyan"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="cyan"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../reports/reading_analysis/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Analysis
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../reports/campus_breakdown/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Campus Breakdown
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../reports/student_profiles/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Individual Student Profiles
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Data Files
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Specification
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Reading Deep Dive Documentation" class="md-nav__button md-logo" aria-label="Reading Deep Dive Documentation" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Reading Deep Dive Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reports/reading_analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reports/campus_breakdown/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Campus Breakdown
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reports/student_profiles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Individual Student Profiles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Data Files
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Specification
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Specification
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GENERAL RULES
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-1-student-snapshot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 1 — Student Snapshot
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-2-course-progress-effort" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 2 — Course Progress &amp; Effort
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-3-assessment-practice-signals" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 3 — Assessment &amp; Practice Signals
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-4-learning-velocity-growth" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 4 — Learning Velocity &amp; Growth
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-5-map-growth-context" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 5 — MAP Growth Context
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-6-root-cause-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 6 — Root Cause Analysis
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-7-completion-projection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 7 — Completion Projection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-8-intervention-levers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 8 — Intervention Levers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#required-validation-checklist-must-appear-at-bottom" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        REQUIRED VALIDATION CHECKLIST (must appear at bottom)
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GENERAL RULES
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-1-student-snapshot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 1 — Student Snapshot
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-2-course-progress-effort" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 2 — Course Progress &amp; Effort
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-3-assessment-practice-signals" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 3 — Assessment &amp; Practice Signals
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-4-learning-velocity-growth" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 4 — Learning Velocity &amp; Growth
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-5-map-growth-context" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 5 — MAP Growth Context
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-6-root-cause-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 6 — Root Cause Analysis
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-7-completion-projection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 7 — Completion Projection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-8-intervention-levers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECTION 8 — Intervention Levers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#required-validation-checklist-must-appear-at-bottom" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        REQUIRED VALIDATION CHECKLIST (must appear at bottom)
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="deep-dive-output-specification-v10">Deep Dive Output Specification (v1.0)</h1>
+<p>This document defines the <strong>exact, required structure</strong> for all student deep dives.
+All deep dives must follow this specification <strong>exactly</strong>.</p>
+<p>Deviation is not allowed.</p>
+<hr />
+<h2 id="general-rules">GENERAL RULES</h2>
+<ul>
+<li>One deep dive per student.</li>
+<li>Output format: <strong>Markdown (.md)</strong> only.</li>
+<li>
+<p>File naming convention:</p>
+</li>
+<li>
+<p>Section titles, order, table headers, and column order must match this spec exactly.</p>
+</li>
+<li>Do <strong>not</strong> add extra sections.</li>
+<li>Do <strong>not</strong> rename columns.</li>
+<li>If data is missing or unavailable, write <strong><code>MISSING</code></strong> in the cell and explain in Section 6 (Evidence).</li>
+<li>All calculations must be reproducible from the values shown.</li>
+</ul>
+<hr />
+<h2 id="section-1-student-snapshot">SECTION 1 — Student Snapshot</h2>
+<p><strong>Purpose:</strong> Establish identity, placement, and instructional context.</p>
+<h3 id="table-11-student-snapshot">Table 1.1 — Student Snapshot</h3>
+<table>
+<thead>
+<tr>
+<th>Student</th>
+<th>Campus</th>
+<th>Enrollment Grade</th>
+<th>Current Course</th>
+<th>Age Grade</th>
+<th>Course Grade</th>
+<th>Highest Mastered Grade (HMG)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Definitions</strong>
+- <strong>Enrollment Grade</strong>: grade level assigned by enrollment.
+- <strong>Age Grade</strong>: chronological grade level.
+- <strong>Course Grade</strong>: nominal grade level of the current course.
+- <strong>HMG</strong>: highest fully mastered grade level (not “working in”).</p>
+<hr />
+<h2 id="section-2-course-progress-effort">SECTION 2 — Course Progress &amp; Effort</h2>
+<p><strong>Purpose:</strong> Quantify progress and time investment.</p>
+<h3 id="table-21-course-progress">Table 2.1 — Course Progress</h3>
+<table>
+<thead>
+<tr>
+<th>% Complete</th>
+<th>Total XP Earned</th>
+<th>Total XP Remaining</th>
+<th>Time in Course (days)</th>
+<th>Avg XP / School Day</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rules</strong>
+- <strong>Time in Course (days)</strong> = number of unique school days with recorded activity.
+- <strong>Avg XP / School Day</strong> = Total XP Earned ÷ Time in Course (rounded to 1 decimal).
+- XP Remaining must be shown even if % Complete is low.</p>
+<hr />
+<h2 id="section-3-assessment-practice-signals">SECTION 3 — Assessment &amp; Practice Signals</h2>
+<p><strong>Purpose:</strong> Distinguish mastery checks from practice behavior.</p>
+<h3 id="table-31-assessment-practice">Table 3.1 — Assessment &amp; Practice</h3>
+<table>
+<thead>
+<tr>
+<th>Test Attempts</th>
+<th>Last Test Date</th>
+<th>Hole-Filling Attempts</th>
+<th>Accuracy Trend</th>
+<th>Fluency Signal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Allowed Values</strong>
+- <strong>Accuracy Trend</strong>: Improving / Flat / Declining / Insufficient data
+- <strong>Fluency Signal</strong>: At level / Below level / Not assessed</p>
+<hr />
+<h2 id="section-4-learning-velocity-growth">SECTION 4 — Learning Velocity &amp; Growth</h2>
+<p><strong>Purpose:</strong> Determine whether learning rate meets expectations.</p>
+<h3 id="table-41-growth-metrics">Table 4.1 — Growth Metrics</h3>
+<table>
+<thead>
+<tr>
+<th>Growth X</th>
+<th>Expected Growth X</th>
+<th>Meets 2× Target?</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rules</strong>
+- <strong>Expected Growth X</strong> defaults to <strong>2.0</strong> unless explicitly specified otherwise.
+- <strong>Meets 2× Target?</strong> = Yes / No
+- <strong>Notes</strong> must reference concrete data from prior sections.</p>
+<hr />
+<h2 id="section-5-map-growth-context">SECTION 5 — MAP Growth Context</h2>
+<p><strong>Purpose:</strong> Surface alignment or mismatch between instruction and MAP sampling.</p>
+<h3 id="table-51-map-profile">Table 5.1 — MAP Profile</h3>
+<table>
+<thead>
+<tr>
+<th>MAP Math RIT</th>
+<th>MAP Grade Band</th>
+<th>Domains Missed</th>
+<th>Alignment Risk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rules</strong>
+- <strong>Domains Missed</strong> must list actual MAP domain names.
+- <strong>Alignment Risk</strong> = Low / Medium / High
+- <strong>High Risk</strong> indicates insufficient exposure to grade-band domains MAP assesses.</p>
+<hr />
+<h2 id="section-6-root-cause-analysis">SECTION 6 — Root Cause Analysis</h2>
+<p><strong>Purpose:</strong> Identify the primary reason the student is not further along.</p>
+<h3 id="primary-root-cause-choose-exactly-one">Primary Root Cause (choose exactly ONE)</h3>
+<ul>
+<li>Placement mismatch</li>
+<li>Insufficient time on task</li>
+<li>Accuracy constraint</li>
+<li>Fluency constraint</li>
+<li>MAP–curriculum misalignment</li>
+<li>Coasting / low intensity</li>
+<li>Data quality issue</li>
+</ul>
+<h3 id="secondary-root-cause-optional-choose-at-most-one">Secondary Root Cause (optional, choose at most ONE)</h3>
+<h3 id="evidence-required">Evidence (required)</h3>
+<ul>
+<li>Bullet list</li>
+<li>Each bullet must explicitly cite a metric or table from Sections 2–5</li>
+<li>No opinions without data support</li>
+</ul>
+<hr />
+<h2 id="section-7-completion-projection">SECTION 7 — Completion Projection</h2>
+<p><strong>Purpose:</strong> Quantify feasibility of finishing by end of year.</p>
+<h3 id="fixed-assumptions">Fixed Assumptions</h3>
+<ul>
+<li>XP per day = <strong>25</strong></li>
+<li>Days per week = <strong>5</strong></li>
+</ul>
+<h3 id="table-71-projection">Table 7.1 — Projection</h3>
+<table>
+<thead>
+<tr>
+<th>XP Remaining</th>
+<th>XP / Day Assumed</th>
+<th>Days / Week</th>
+<th>Weeks to Finish</th>
+<th>Finish Before EOY?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rules</strong>
+- Weeks to Finish = XP Remaining ÷ (25 × 5), rounded <strong>up</strong>.
+- <strong>Finish Before EOY?</strong> = Yes / No / Borderline</p>
+<hr />
+<h2 id="section-8-intervention-levers">SECTION 8 — Intervention Levers</h2>
+<p><strong>Purpose:</strong> Identify immediate, actionable changes.</p>
+<h3 id="actions-maximum-5-bullets">Actions (maximum 5 bullets)</h3>
+<ul>
+<li>Each action must map directly to the identified root cause.</li>
+<li>Actions must be operational and time-bound.</li>
+<li>Avoid philosophical or vague language.</li>
+</ul>
+<hr />
+<h2 id="required-validation-checklist-must-appear-at-bottom">REQUIRED VALIDATION CHECKLIST (must appear at bottom)</h2>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> All required sections are present</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> All tables match the specified column headers and order</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Exactly one primary root cause selected</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> All computed values can be traced to displayed data</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Projection math uses fixed assumptions (25 XP/day, 5 days/week)</li>
+</ul>
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="index.html" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272h16v176c0 35.3 28.7 64 64 64h288c35.3 0 64-28.7 64-64V272h16c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1zM240 320h32c26.5 0 48 21.5 48 48v96H192v-96c0-26.5 21.5-48 48-48"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "toc.follow", "search.suggest", "search.highlight", "content.code.copy", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
