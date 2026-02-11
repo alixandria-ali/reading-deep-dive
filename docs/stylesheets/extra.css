@@ -132,7 +132,7 @@ body {
 }
 
 .md-typeset table thead {
-  background: linear-gradient(135deg, var(--primary-navy) 0%, #2c5282 100%);
+  background: linear-gradient(135deg, #0d1b2a 0%, #1a2332 100%);
   color: white;
 }
 
@@ -141,6 +141,7 @@ body {
   font-weight: 700;
   text-align: left;
   border: none;
+  color: white;
 }
 
 .md-typeset table tbody td {
