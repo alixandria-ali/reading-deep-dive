@@ -44,79 +44,96 @@ This analysis examines **423 student records** with Reading data to identify pat
 
 ## 2. Inference: Root Cause Analysis
 
-### Reading Subject Issues
+<div class="grid cards" markdown>
 
-#### Issue 1: Over-Acceleration
-**Pattern:** Students placed multiple grade levels above age grade in reading courses
+-   **Issue 1: Over-Acceleration**
 
-**Evidence:**
-- Ryder Shilt (Grade 6): Reading Grade 12 course, HMG 9
-- River Thomas (Grade 9): Already at Grade 12 reading, HMG 9
-- Multiple students at SAT-level reading in Grade 9-10
+    ---
 
-**Inference:** Placement based on initial assessment may not account for sustained mastery. Students "place out" quickly but don't consolidate learning, leading to negative growth when assessed.
+    **Pattern:** Students placed multiple grade levels above age grade in reading courses
 
-#### Issue 2: Assessment vs. Instruction Misalignment
-**Pattern:** High HMG with negative or low growth X
+    **Evidence:**
+    - Ryder Shilt (Grade 6): Reading Grade 12 course, HMG 9
+    - River Thomas (Grade 9): Already at Grade 12 reading, HMG 9
+    - Multiple students at SAT-level reading in Grade 9-10
 
-**Evidence:**
-- Ju Orloff: HMG 6, Growth X -8
-- Erika Rigby: HMG 6, Growth X -6
-- Multiple students with HMG 6-12 but Growth X < 2
+    **Inference:** Placement based on initial assessment may not account for sustained mastery. Students "place out" quickly but don't consolidate learning, leading to negative growth when assessed.
 
-**Inference:** MAP assessments may be sampling skills not reinforced in 100 for 100 or SAT reading courses. Curriculum-assessment gap.
+-   **Issue 2: Assessment vs. Instruction Misalignment**
 
-#### Issue 3: Reading Stamina / Complexity Plateau
-**Pattern:** Students succeed in structured reading programs but struggle when complexity increases
+    ---
 
-**Evidence:**
-- Students completing Grade 10-12 reading courses but showing minimal or negative growth
-- High completion rates (HMG 6-12) but low Growth X
+    **Pattern:** High HMG with negative or low growth X
 
-**Inference:** Programs may prioritize comprehension of discrete passages over building reading stamina, vocabulary depth, and complex text analysis—skills MAP assesses.
+    **Evidence:**
+    - Ju Orloff: HMG 6, Growth X -8
+    - Erika Rigby: HMG 6, Growth X -6
+    - Multiple students with HMG 6-12 but Growth X < 2
+
+    **Inference:** MAP assessments may be sampling skills not reinforced in 100 for 100 or SAT reading courses. Curriculum-assessment gap.
+
+-   **Issue 3: Reading Stamina / Complexity Plateau**
+
+    ---
+
+    **Pattern:** Students succeed in structured reading programs but struggle when complexity increases
+
+    **Evidence:**
+    - Students completing Grade 10-12 reading courses but showing minimal or negative growth
+    - High completion rates (HMG 6-12) but low Growth X
+
+    **Inference:** Programs may prioritize comprehension of discrete passages over building reading stamina, vocabulary depth, and complex text analysis—skills MAP assesses.
+
+</div>
 
 ---
 
 ## 3. Student Risk Categories
 
-### High Risk: Immediate Intervention Required
+<div class="grid cards" markdown>
 
-**Criteria:** Growth X < 0 (regression) OR HMG < Age Grade - 2
+-   **High Risk: Immediate Intervention Required**
 
-| Student | Age Grade | HMG | Growth X | Issue |
-|---------|-----------|-----|----------|-------|
-| Ju Orloff | 10 | 6 | -8 | Curriculum-assessment gap |
-| Erika Rigby | 9 | 6 | -6 | Acceleration without consolidation |
+    ---
 
-**Action Priority:** Review placement, diagnose skill gaps, consider course change or intensive support.
+    **Criteria:** Growth X < 0 (regression) OR HMG < Age Grade - 2
 
----
+    | Student | Age Grade | HMG | Growth X | Issue |
+    |---------|-----------|-----|----------|-------|
+    | Ju Orloff | 10 | 6 | -8 | Curriculum-assessment gap |
+    | Erika Rigby | 9 | 6 | -6 | Acceleration without consolidation |
 
-### Moderate Risk: Monitoring Required
+    **Action Priority:** Review placement, diagnose skill gaps, consider course change or intensive support.
 
-**Criteria:** Growth X between 0.5 and 1.5 (below target but not regressing)
+-   **Moderate Risk: Monitoring Required**
 
-| Student | Age Grade | HMG | Growth X | Issue |
-|---------|-----------|-----|----------|-------|
-| Sloka Vudumu | 11 | 6 | 1.0 | High HMG but minimal growth |
-| Hinano Tamura | 9 | 6 | 2.67 | Just above target |
+    ---
 
-**Action Priority:** Weekly check-ins, adjust difficulty/pacing, monitor engagement signals.
+    **Criteria:** Growth X between 0.5 and 1.5 (below target but not regressing)
 
----
+    | Student | Age Grade | HMG | Growth X | Issue |
+    |---------|-----------|-----|----------|-------|
+    | Sloka Vudumu | 11 | 6 | 1.0 | High HMG but minimal growth |
+    | Hinano Tamura | 9 | 6 | 2.67 | Just above target |
 
-### Strong Performers: Leverage as Models
+    **Action Priority:** Weekly check-ins, adjust difficulty/pacing, monitor engagement signals.
 
-**Criteria:** Growth X greater than or equal to 5.0
+-   **Strong Performers: Leverage as Models**
 
-| Student | Age Grade | HMG | Growth X | Strengths |
-|---------|-----------|-----|----------|-----------|
-| Stella Grams | 10 | 5 | 16.0 | SAT Level 4, exceptional growth |
-| Luca Sanchez | 9 | 6 | 15.0 | Hole-filling + grade-level combo |
-| Geetesh Parelly | 11 | 6 | 14.0 | Self-directed learner |
-| Estella Estrada | 10 | 5 | 10.0 | 100 for 100 program success |
+    ---
 
-**Insight:** Top performers often use **combination strategies** (hole-filling + grade-level course, or multiple complementary courses).
+    **Criteria:** Growth X greater than or equal to 5.0
+
+    | Student | Age Grade | HMG | Growth X | Strengths |
+    |---------|-----------|-----|----------|-----------|
+    | Stella Grams | 10 | 5 | 16.0 | SAT Level 4, exceptional growth |
+    | Luca Sanchez | 9 | 6 | 15.0 | Hole-filling + grade-level combo |
+    | Geetesh Parelly | 11 | 6 | 14.0 | Self-directed learner |
+    | Estella Estrada | 10 | 5 | 10.0 | 100 for 100 program success |
+
+    **Insight:** Top performers often use **combination strategies** (hole-filling + grade-level course, or multiple complementary courses).
+
+</div>
 
 ---
 
@@ -124,37 +141,63 @@ This analysis examines **423 student records** with Reading data to identify pat
 
 ### By Grade Level
 
-#### High School (HS)
-- **Widest performance variance** (Growth X from -8 to +16)
-- AP/advanced courses correlate with **both highest and lowest** growth
-- **Course selection matters more than grade level**
+<div class="grid cards" markdown>
 
-#### Middle School (MS)
-- **More consistent outcomes** (fewer outliers)
-- Smaller sample size limits inference
-- Ryder Shilt (Grade 6 in Grade 12 Reading): Unique case, merits individual analysis
+-   **High School (HS)**
 
-#### Elementary (L1, L2, LL)
-- Reading data shows **foundational skill-building phase**
-- Less variability, fewer extreme outcomes
+    ---
+
+    - **Widest performance variance** (Growth X from -8 to +16)
+    - AP/advanced courses correlate with **both highest and lowest** growth
+    - **Course selection matters more than grade level**
+
+-   **Middle School (MS)**
+
+    ---
+
+    - **More consistent outcomes** (fewer outliers)
+    - Smaller sample size limits inference
+    - Ryder Shilt (Grade 6 in Grade 12 Reading): Unique case, merits individual analysis
+
+-   **Elementary (L1, L2, LL)**
+
+    ---
+
+    - Reading data shows **foundational skill-building phase**
+    - Less variability, fewer extreme outcomes
+
+</div>
 
 ### By Campus
 
-#### Alpha High School
-- Largest cohort in dataset
-- High concentration of **AP/advanced coursework**
-- Performance split between **very high achievers** and **struggling students**
-- Suggests need for **placement accuracy improvement**
+<div class="grid cards" markdown>
 
-#### Alpha School Miami
-- Mix of high performers (Luca Sanchez, Estella Estrada) and strugglers (Ju Orloff)
-- Smaller school, individualized instruction possible
-- **Opportunity for case study analysis** of what differentiates success
+-   **Alpha High School**
 
-#### Strata, Texas Sports Academy
-- Limited data points
-- Performance generally stable
-- Ryder Shilt (TSA) represents **outlier case** worth investigating
+    ---
+
+    - Largest cohort in dataset
+    - High concentration of **AP/advanced coursework**
+    - Performance split between **very high achievers** and **struggling students**
+    - Suggests need for **placement accuracy improvement**
+
+-   **Alpha School Miami**
+
+    ---
+
+    - Mix of high performers (Luca Sanchez, Estella Estrada) and strugglers (Ju Orloff)
+    - Smaller school, individualized instruction possible
+    - **Opportunity for case study analysis** of what differentiates success
+
+-   **Strata, Texas Sports Academy**
+
+    ---
+
+    - Limited data points
+    - Performance generally stable
+    - Ryder Shilt (TSA) represents **outlier case** worth investigating
+
+</div>
 
 ---
 
