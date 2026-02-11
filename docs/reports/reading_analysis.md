@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown style="text-align: center;">
 
-[← Overview](../){ .md-button }
+[← Overview](../../){ .md-button }
 [Campus Breakdown](../campus_breakdown/){ .md-button }
 [Individual Student Profiles](../student_profiles/){ .md-button }
 
