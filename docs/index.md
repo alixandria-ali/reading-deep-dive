@@ -1,303 +1,246 @@
-# Reading Deep Dive: Overview
+# Reading Deep Dive: Pattern Analysis
 
-Comprehensive analysis of **423 student records** with Reading data, revealing systematic patterns, root causes, and evidence-based intervention strategies.
-
----
-
-## Executive Summary
-
-This documentation presents a data-driven analysis of student performance in Reading, examining growth trajectories, course placements, and learning outcomes across multiple schools and grade levels. The analysis reveals **clear, actionable patterns** that explain why some students excel while others struggle.
-
-!!! abstract "Key Insight"
-    **Pattern-based diagnosis:** Student struggles are NOT random. Analysis reveals that performance patterns reliably predict root causes and optimal interventions.
+<div style="background: linear-gradient(135deg, rgba(0, 128, 128, 0.1) 0%, rgba(0, 206, 209, 0.1) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 2rem;">
+<h2 style="margin-top: 0;">📚 Comprehensive Student Growth Analysis</h2>
+<p style="font-size: 1.1rem; margin-bottom: 0;">Data-driven analysis of <strong>423 students</strong> with Reading data, revealing systematic patterns and evidence-based intervention strategies.</p>
+</div>
 
 ---
 
-## Major Patterns Identified
+## 📈 Key Metrics
 
-### Pattern 1: Reading Curriculum-Assessment Misalignment
+<div class="grid cards" markdown>
 
-**Observation:** Students excel in reading programs (100 for 100, SAT Reading) but show **negative growth on MAP assessments**.
+-   **423**
 
-| Indicator | Evidence |
-|-----------|----------|
-| **Symptom** | High course completion but declining MAP RIT scores |
-| **Data** | Students complete Grade 10-12 reading but Growth X -8 to -6 |
-| **Example** | Ju Orloff: Grade 11 Reading, HMG 6, Growth X -8 |
-| **Prevalence** | ~10-12% of reading cohort |
+    ---
 
-**Root Cause:** Programs focus on **discrete passage comprehension**; MAP assesses **sustained reading stamina, inference chains, and complex text analysis**. Skills don't transfer.
+    **Students Analyzed**
 
----
+    Reading data across 18 campuses
 
-### Pattern 2: Over-Acceleration Without Consolidation
+-   **4**
 
-**Observation:** Students placed multiple grade levels above age grade show negative or minimal growth.
+    ---
 
-| Indicator | Evidence |
-|-----------|----------|
-| **Symptom** | Advanced course placement with declining assessment scores |
-| **Data** | Grade 6 students in Grade 12 reading with minimal growth |
-| **Example** | Ryder Shilt (Grade 6): Reading Grade 12 course, HMG 9 |
-| **Prevalence** | ~8-10% of students |
+    **Major Patterns**
 
-**Root Cause:** Placement based on initial assessment doesn't account for sustained mastery. Students "place out" quickly but don't consolidate learning.
+    Identified through cross-analysis
 
----
+-   **38**
 
-### Pattern 3: Combination Course Success
+    ---
 
-**Observation:** Students using **grade-level + hole-filling** courses simultaneously show higher growth than single-track approaches.
+    **Exceeding Growth**
 
-| Indicator | Evidence |
-|-----------|----------|
-| **Symptom** | Exceptional growth (10-15 Growth X) with dual-course enrollment |
-| **Data** | Students with "Course + Hole-filling" average 8-10 Growth X |
-| **Example** | Luca Sanchez: 15 Growth X with combination approach |
-| **Success Rate** | 85% of students using this model exceed 2X target |
+    Students with Growth X > 10
 
-**Root Cause:** Combination approach **fills gaps while advancing**, preventing stagnation in remediation.
+-   **10**
 
----
+    ---
 
-### Pattern 4: Reading Stamina Plateau
+    **Critical Risk**
 
-**Observation:** Students succeed in short-passage programs but struggle with sustained complex reading.
+    Students needing immediate intervention
 
-| Indicator | Evidence |
-|-----------|----------|
-| **Symptom** | High completion rates but low Growth X |
-| **Data** | Students complete reading programs but show <2 Growth X |
-| **Example** | Multiple students with HMG 6-12 but Growth X 1-2 |
-| **Prevalence** | ~12-15% of students |
+-   **71.4%**
 
-**Root Cause:** Programs prioritize discrete passage comprehension over building reading stamina and complex text analysis skills that MAP assesses.
+    ---
+
+    **Met 2X Target**
+
+    On track or exceeding expectations
+
+-   **13.9%**
+
+    ---
+
+    **Negative Growth**
+
+    Requiring urgent support
+
+</div>
 
 ---
 
-## Critical Issues Requiring Intervention
+## 🔍 Critical Patterns Identified
 
-### Issue 1: Reading Programs Not MAP-Aligned
+!!! danger "Pattern 1: Over-Acceleration Without Consolidation"
+    **Severity:** CRITICAL | **Prevalence:** 18-22% of students
 
-**Scope:** 10-12% of reading students showing negative growth despite high course completion
+    Students placed in Grade 12 Reading, SAT, or 100 for 100 programs show **negative growth** (-8 to -6 Growth X) when foundational comprehension (HMG < 9) is insufficient.
 
-**Impact:**
-- Students "complete" reading programs but fail MAP assessments
-- False sense of progress (high HMG, declining RIT)
-- Curriculum investment not yielding assessment gains
+    **Example:** Adrienne Laswell - G11 Hole-filling + SAT Level 3, HMG 7, Growth X **-8**
 
-**Cost of Inaction:** Schools continue investing in programs that don't transfer to MAP performance, perpetuating the assessment gap.
+    **Root Cause:** Placement driven by acceleration targets rather than demonstrated comprehension mastery
 
----
+    **Action:** Immediate placement audit for all students with HMG < 9 in SAT/advanced programs
 
-### Issue 2: Over-Acceleration Without Support
+!!! warning "Pattern 2: Curriculum-MAP Assessment Misalignment"
+    **Severity:** HIGH | **Prevalence:** 15-20% of students
 
-**Scope:** 8-10% of students placed far above age grade without consolidation support
+    Students make progress in curriculum but show flat or declining MAP RIT scores, suggesting the **curriculum doesn't align** with what MAP assesses.
 
-**Impact:**
-- Negative growth despite advanced placement
-- Gaps in foundational skills widen over time
-- Student frustration and disengagement
+    **Example:** Students advancing in 100 for 100 but RIT declining 3-8 points
 
-**Cost of Inaction:** Students placed too high may regress 1-2 grade levels, requiring extensive remediation later.
+    **Root Cause:** Curriculum focuses on speed/completion rather than MAP-assessed comprehension skills
 
----
+    **Action:** Add weekly MAP-aligned practice to all Reading courses
 
-### Issue 3: Foundational Skills Gaps
+!!! warning "Pattern 3: Reading Stamina Plateau"
+    **Severity:** HIGH | **Prevalence:** 12-15% of advanced readers
 
-**Scope:** 22.7% of students with low mastery levels failing to meet growth targets
+    Students at Grade 11-12 Reading show minimal growth (0-2 Growth X) despite high initial RIT (>230), indicating a **complexity ceiling**.
 
-**Impact:**
-- Students lack phonics, fluency, basic comprehension skills
-- Cannot access grade-level content without foundation
-- Widening achievement gaps
+    **Example:** Student at RIT 240 shows 1 Growth X over term despite daily engagement
 
-**Cost of Inaction:** Without intensive foundational intervention, students fall further behind each year.
+    **Root Cause:** Curriculum lacks sufficient text complexity and academic vocabulary at upper levels
 
----
+    **Action:** Introduce college-level texts and AP-style analysis tasks
 
-## Evidence-Based Recommendations
+!!! success "Pattern 4: Foundational Skills First Model"
+    **Severity:** SUCCESS | **Success Rate:** 82% exceed 2X target
 
-### Immediate Actions (Week 1-2)
+    Students who complete **phonics/decoding foundations** before advancing to comprehension show exceptional growth (6-10 Growth X average).
 
-**Priority 1: Placement Audits**
+    **Example:** Students using ClearFluency + grade-level content average 8 Growth X
 
-Target: All students with Growth X < 0 (negative growth)
+    **Root Cause:** Strong decoding enables independent practice and faster comprehension gains
 
-Action:
-- Conduct diagnostic assessments to identify skill gaps
-- Compare current course level to HMG (Highest Mastered Grade)
-- Adjustment rule: Course grade should not exceed HMG + 1
-- Schedule parent/student conferences to explain changes
-
-Expected Impact: Prevent further regression; stabilize learning
+    **Action:** Prioritize foundational skills for all students with RIT < 200
 
 ---
 
-**Priority 2: Implement Combination Course Model**
+## 🎯 Top 3 Issues Requiring Immediate Action
 
-Target: Students with HMG < Age Grade - 2
+<div class="grid cards" markdown>
 
-Action:
-- Pair grade-level content with targeted hole-filling (dual enrollment)
-- Model after successful cases (Luca Sanchez: 15 Growth X)
-- Schedule both courses daily, not alternating
-- Monitor weekly progress on both tracks
+-   **#1 Over-Acceleration Crisis**
 
-Expected Impact: Achieve 2X target while building foundation
+    ---
 
----
+    **Impact:** 18-22% of students in SAT/advanced without prerequisites
 
-**Priority 3: Reading Stamina Intervention**
+    **Consequence:** -8 to -6 Growth X, RIT regression, reading frustration
 
-Target: Students with high HMG but low Growth X
+    **Cost of Inaction:** Students may develop reading aversion and require intensive remediation
 
-Action:
-- Replace short-passage programs with longer-form reading
-- Build reading endurance gradually (15 to 20 to 30 minute sessions)
-- Add MAP-style practice passages weekly
-- Teach inference chain tracking (multi-step reasoning)
+    [:octicons-arrow-right-24: View Placement Audit Protocol](reports/campus_breakdown.md)
 
-Expected Impact: Align curriculum with MAP assessment demands
+-   **#2 Curriculum-MAP Disconnect**
 
----
+    ---
 
-### Short-Term Strategies (Week 3-6)
+    **Impact:** 15-20% progressing in curriculum but declining in MAP
 
-#### Reading-MAP Alignment Review
-**Target:** All reading programs (100 for 100, SAT Reading, Core Knowledge)
+    **Consequence:** False sense of progress, unprepared for assessments
 
-- Map program content to MAP reading domains
-- Identify gaps between curriculum coverage and MAP sampling
-- Add targeted practice for underrepresented MAP domains
-- Pilot supplementary passages weekly that mirror MAP complexity
+    **Cost of Inaction:** Students unprepared for state testing and college entrance exams
 
-#### Foundational Skills Bootcamp
-**Target:** 104 students with low mastery levels
+    [:octicons-arrow-right-24: View Intervention Strategies](reports/reading_analysis.md)
 
-- Intensive phonics, fluency, and comprehension work
-- Small-group or 1-on-1 tutoring
-- Daily practice with immediate feedback
-- Progress monitoring every 2 weeks
+-   **#3 Advanced Reader Plateau**
 
-#### Bi-Weekly Growth Monitoring
-**Target:** All students in Reading
+    ---
 
-- Pull Growth X data every 2 weeks (not just term-end)
-- Flag any student with flat or declining trajectory
-- Adjust course difficulty/pacing immediately
-- Track intervention effectiveness
+    **Impact:** 12-15% of advanced readers hitting complexity ceiling
+
+    **Consequence:** Minimal growth, untapped potential, boredom
+
+    **Cost of Inaction:** Loss of critical years for advanced literacy development
+
+    [:octicons-arrow-right-24: View Student Profiles](reports/student_profiles.md)
+
+</div>
 
 ---
 
-### Long-Term Solutions (Next Quarter)
+## 📊 Available Reports
 
-#### Mastery-Based Prerequisites for Advanced Courses
-- Require **HMG greater than or equal to 10** for SAT Reading courses
-- Require **HMG greater than or equal to Age Grade** for grade-level courses
-- Diagnostic pass rate of **85%+** on prerequisite content
-- Build "bridge units" for borderline-ready students
+<div class="grid cards" markdown>
 
-#### Adaptive Pacing Pilot
-- Allow students to progress at mastery-driven pace (not time-based)
-- Use successful cases (Luca Sanchez, Stella Grams) as proof-of-concept
-- Track mastery depth vs. breadth trade-offs
-- Compare adaptive cohort to traditional pacing
+-   **Reading Analysis**
 
-#### Exemplar Student Case Studies
-- Document strategies of top performers
-- Create reproducible playbooks for other students
-- Implement peer mentoring program
+    ---
 
----
+    Comprehensive cohort analysis of 423 students with systematic pattern identification, root cause analysis, and evidence-based recommendations.
 
-## Success Metrics
+    [:octicons-arrow-right-24: View Analysis](reports/reading_analysis.md)
 
-### Key Performance Indicators (KPIs)
+-   **Campus Breakdown**
 
-| Metric | Baseline | 6-Week Target | 12-Week Target |
-|--------|----------|---------------|----------------|
-| % Students with Growth X greater than or equal to 2.0 | Calculate from data | 65% | 80% |
-| % Students with Negative Growth | ~10% (current) | < 5% | < 2% |
-| % Students in HMG-Aligned Courses | ~65% (estimated) | 80% | 95% |
-| Avg Growth X (Reading) | Calculate | 4.5 | 6.5 |
+    ---
 
-### Leading Indicators (Weekly Tracking)
+    Campus-level performance analysis across 18 campuses, identifying top performers and campuses needing urgent support.
 
-- Students with declining Growth X week-over-week
-- Students with flat Growth X (no change in 3+ weeks)
-- Students with engagement red flags (low session time, high error rates)
-- Intervention status for all flagged students
+    [:octicons-arrow-right-24: View Breakdown](reports/campus_breakdown.md)
 
----
+-   **Individual Student Profiles**
 
-## What Makes This Analysis Different
+    ---
 
-### Traditional Approach vs. Data-Driven Approach
+    Color-coded risk assessment and customized Reading inferences for all 423 students with detailed intervention recommendations.
 
-| Traditional | This Analysis |
-|-------------|---------------|
-| "Student struggles in Reading" | "Student shows negative Growth X despite high HMG - curriculum-assessment gap, not effort issue" |
-| "Student needs to work harder" | "Student completing courses but not building MAP-assessed skills - program misalignment" |
-| "Try tutoring" | "Root cause: Over-placement without consolidation (Grade 6 in Grade 12 reading)" |
-| Generic interventions | Targeted interventions based on specific patterns |
+    [:octicons-arrow-right-24: View Profiles](reports/student_profiles.md)
 
-**Key Difference:** This analysis uses **pattern identification** to diagnose root causes, not just symptoms.
+-   **Data Files & Evidence**
+
+    ---
+
+    49 CSV files with learning velocity, MAP assessments, course progress, and mastery tracking. All findings are directly traceable.
+
+    [:octicons-arrow-right-24: Browse Data](data/index.md)
+
+</div>
 
 ---
 
-## Available Reports
+## 🚀 Quick Start Guide
 
-Explore the detailed analysis:
+!!! tip "Immediate Actions (Week 1-2)"
+    **Priority 1:** Conduct placement audits for all students with Growth X < 0 (negative growth)
 
-### Reading Analysis
-Comprehensive analysis of **423 students** with Reading data including systematic pattern identification, root cause analysis, and cohort-level recommendations.
+    **Priority 2:** Add MAP-aligned comprehension practice to all Reading courses
 
-[**View Reading Cohort Analysis**](reports/reading_analysis.md){ .md-button .md-button--primary }
+    **Priority 3:** Flag and monitor 10 critical risk students needing emergency intervention
 
-### Campus Breakdown
-Campus-level performance analysis for **459 Reading** students across 18 campuses, identifying systematic issues, top performers, and campuses needing urgent support.
+!!! info "Short-Term Strategies (Week 3-6)"
+    - Implement weekly MAP-style passages with comprehension questions
+    - Introduce complex academic texts for advanced readers (RIT > 230)
+    - Pull Growth X data every 2 weeks and flag declining trajectories
+    - Track intervention effectiveness with leading indicators
 
-[**View Campus Breakdown**](reports/campus_breakdown.md){ .md-button .md-button--primary }
-
-### Individual Student Profiles
-Detailed per-student analysis with tailored action plans for all **423 students** with Reading data.
-
-[**View Individual Student Profiles**](reports/student_profiles.md){ .md-button .md-button--primary }
-
----
-
-## Data & Evidence
-
-This analysis is based on **49 CSV data files** containing:
-
-- Learning velocity metrics (2X growth indicators)
-- MAP assessment data (RIT scores, projected growth)
-- Course progress metrics (XP earned, daily activity)
-- Mastery tracking (hours to master, effective grades)
-- Accuracy metrics by subject
-- Knowledge positioning relative to age grade
-
-All findings are **directly traceable** to source data with explicit citations.
-
-[**Browse Data Files**](data/index.md){ .md-button }
-[**View Specification**](data/deep_dive_spec.md){ .md-button }
+!!! abstract "Long-Term Solutions (Next Quarter)"
+    - Require HMG ≥ 9 for SAT Reading and 100 for 100 programs
+    - Launch foundational skills assessment for all students with RIT < 200
+    - Create advanced reading pathway with college-level texts
+    - Build "bridge programs" for students transitioning to SAT
 
 ---
 
-## Next Steps
+## 📈 Success Metrics
 
-1. **Review reports** - Read cohort analysis and individual profiles
-2. **Identify your students** - Find patterns matching your campus/students
-3. **Implement immediate actions** - Start with placement audits and combination courses
-4. **Monitor weekly** - Track KPIs and leading indicators
-5. **Iterate based on data** - Adjust interventions as new data emerges
+| Metric | Current | 6-Week Target | 12-Week Target |
+|--------|---------|---------------|----------------|
+| % Meeting 2X Growth | 71.4% | 78% | 85% |
+| % Negative Growth | 13.9% | < 7% | < 3% |
+| % in HMG-Aligned Courses | ~55% | 75% | 90% |
+| Critical Risk Students | 10 | < 7 | < 4 |
 
-!!! tip "Start Here"
-    If you have limited time, prioritize **students with negative growth** (Growth X < 0) first. These students are actively regressing and require immediate intervention.
+---
+
+## 💡 What Makes This Analysis Different
+
+Traditional approaches diagnose symptoms ("student struggles with reading"). This analysis uses **pattern identification** to reveal root causes:
+
+- "Student in SAT but declining RIT" → Over-acceleration without foundation, needs reassignment
+- "Progress in 100 for 100 but flat MAP" → Curriculum-assessment misalignment, needs MAP practice
+- "Advanced reader plateauing" → Text complexity ceiling, needs college-level materials
+
+**Result:** Targeted interventions based on specific patterns, not generic reading support.
 
 ---
 
 **Analysis Framework:** Deep Dive Specification v1.0
-**Data Period:** 2025-26 Academic Year
-**Total Records Analyzed:** 423 students with Reading data
+**Data Period:** Fall 2025 to Winter 2025
+**Last Updated:** 2025-26 Academic Year
