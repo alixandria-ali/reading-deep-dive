@@ -14,13 +14,13 @@ This comprehensive directory provides detailed performance profiles for all stud
 
 Students are categorized into five risk levels based on their **Reading Growth X** scores:
 
-| Risk Level | Growth X Range | Definition | Action Timeline |
-|------------|----------------|------------|-----------------|
-| Critical Risk | < -5 | Significant regression requiring immediate intervention | **Emergency** - Within 24-48 hours |
-| High Risk | -5 to 0 | Below-target growth needing urgent support | **Urgent** - Within 1 week |
-| Moderate Risk | 0 to 5 | Some growth but below optimal trajectory | **Important** - Within 2-3 weeks |
-| Low Risk | 5 to 10 | Good progress approaching targets | **Monitor** - Ongoing support |
-| Exceeding | > 10 | Exceptional growth exceeding expectations | **Celebrate** - Enrichment opportunities |
+| Risk Level | Growth X Range | Definition |
+|------------|----------------|------------|
+| Critical Risk | < -5 | Significant regression requiring immediate intervention |
+| High Risk | -5 to 0 | Below-target growth needing urgent support |
+| Moderate Risk | 0 to 5 | Some growth but below optimal trajectory |
+| Low Risk | 5 to 10 | Good progress approaching targets |
+| Exceeding | > 10 | Exceptional growth exceeding expectations |
 
 ## Complete Student Directory
 
