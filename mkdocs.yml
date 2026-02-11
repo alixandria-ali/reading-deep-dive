@@ -66,7 +66,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Reading Analysis: reports/reading_analysis.md
+  - Analysis: reports/reading_analysis.md
   - Campus Breakdown: reports/campus_breakdown.md
   - Individual Student Profiles: reports/student_profiles.md
   - Data Files: data/index.md
