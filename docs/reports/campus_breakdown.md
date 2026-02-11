@@ -1,13 +1,5 @@
 # Campus Breakdown - Reading
 
-<div class="grid cards" markdown style="text-align: center;">
-
-[← Overview](/){ .md-button }
-[Reading Analysis](../reading_analysis/){ .md-button }
-[Individual Student Profiles](../student_profiles/){ .md-button }
-
-</div>
-
 !!! abstract "Overview"
     Comprehensive campus-level analysis for **Reading performance** across 18 campuses. This report identifies systematic issues, quantifies growth patterns, and provides data-driven recommendations for targeted interventions.
 

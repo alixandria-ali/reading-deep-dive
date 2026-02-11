@@ -1,13 +1,5 @@
 # Reading: Cohort Analysis
 
-<div class="grid cards" markdown style="text-align: center;">
-
-[← Overview](/){ .md-button }
-[Campus Breakdown](../campus_breakdown/){ .md-button }
-[Individual Student Profiles](../student_profiles/){ .md-button }
-
-</div>
-
 ## Executive Summary
 
 This analysis examines **423 student records** with Reading data to identify patterns, potential issues, and actionable interventions. The data reveals systematic challenges that require targeted instructional adjustments.

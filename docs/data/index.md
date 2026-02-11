@@ -1,14 +1,5 @@
 # Data & Evidence
 
-<div class="grid cards" markdown style="text-align: center;">
-
-[← Overview](../){ .md-button }
-[Science & Reading Analysis](../reports/science_reading_analysis/){ .md-button }
-[Campus Breakdown](../reports/campus_breakdown/){ .md-button }
-[Individual Student Profiles](../reports/student_profiles/){ .md-button }
-
-</div>
-
 This section contains all source data files used in the deep dive analysis.
 
 ## Available Files

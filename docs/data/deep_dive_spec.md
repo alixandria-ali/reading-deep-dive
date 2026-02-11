@@ -1,15 +1,5 @@
 # Deep Dive Output Specification (v1.0)
 
-<div class="grid cards" markdown style="text-align: center;">
-
-[← Overview](../){ .md-button }
-[Science & Reading Analysis](../reports/science_reading_analysis/){ .md-button }
-[Campus Breakdown](../reports/campus_breakdown/){ .md-button }
-[Individual Student Profiles](../reports/student_profiles/){ .md-button }
-[Data Files](../data/){ .md-button }
-
-</div>
-
 This document defines the **exact, required structure** for all student deep dives.
 All deep dives must follow this specification **exactly**.
 

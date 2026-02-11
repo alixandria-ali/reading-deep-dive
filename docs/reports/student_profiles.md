@@ -1,13 +1,5 @@
 # Individual Student Profiles
 
-<div class="grid cards" markdown style="text-align: center;">
-
-[← Overview](/){ .md-button }
-[Reading Analysis](../reading_analysis/){ .md-button }
-[Campus Breakdown](../campus_breakdown/){ .md-button }
-
-</div>
-
 This comprehensive directory provides detailed performance profiles for all students with Reading data, organized by risk level based on Fall-to-Winter 2025 Growth X scores. Each profile includes Reading-specific performance metrics and targeted action recommendations.
 
 ## Understanding Growth X

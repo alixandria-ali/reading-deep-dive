@@ -1,14 +1,5 @@
 # Reading Deep Dive: Overview
 
-<div class="grid cards" markdown style="text-align: center;">
-
-[Reading Analysis](reports/reading_analysis/){ .md-button }
-[Campus Breakdown](reports/campus_breakdown/){ .md-button }
-[Individual Student Profiles](reports/student_profiles/){ .md-button }
-[Data Files](data/){ .md-button }
-
-</div>
-
 Comprehensive analysis of **423 student records** with Reading data, revealing systematic patterns, root causes, and evidence-based intervention strategies.
 
 ---
