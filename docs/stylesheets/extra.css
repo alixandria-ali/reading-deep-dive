@@ -132,16 +132,17 @@ body {
 }
 
 .md-typeset table thead {
-  background: linear-gradient(135deg, #0d1b2a 0%, #1a2332 100%);
-  color: white;
+  background: linear-gradient(135deg, #0d1b2a 0%, #1a2332 100%) !important;
+  color: white !important;
 }
 
 .md-typeset table thead th {
-  padding: 1rem;
-  font-weight: 700;
-  text-align: left;
-  border: none;
-  color: white;
+  padding: 1rem !important;
+  font-weight: 700 !important;
+  text-align: left !important;
+  border: none !important;
+  color: white !important;
+  background: transparent !important;
 }
 
 .md-typeset table tbody td {

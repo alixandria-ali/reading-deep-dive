@@ -44,7 +44,7 @@ All 423 students with Reading data are listed below in a sortable table. Click c
 .risk-critical { background-color: #f5c6cb; }
 table { width: 100%; border-collapse: collapse; }
 th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-th { background-color: #f2f2f2; font-weight: bold; cursor: pointer; }
+th { background: linear-gradient(135deg, #0d1b2a 0%, #1a2332 100%); color: white; font-weight: bold; cursor: pointer; }
 </style>
 
 <table id="studentTable">
